@@ -1,0 +1,234 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Independent Film",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-953d47fbf6a1b1c2386e17f8ded1989e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-03ded86f04975be0c0f733549f05de56.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3-pro.jpg",
+            "source": "templates\/home-3-4e772f245f097ffb90e2edd34d233944.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Posters",
+            "screenshot": "screenshots\/posters.jpg",
+            "source": "templates\/posters-1b6a47e3e6c30839086f21c14b2eb99f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Trailer 1",
+            "screenshot": "screenshots\/trailer-1-pro.jpg",
+            "source": "templates\/trailer-1-77b21c0f929c94ab708505225ca8f118.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Trailer 2",
+            "screenshot": "screenshots\/trailer-2.jpg",
+            "source": "templates\/trailer-2-e5da66f68837e7cc874359f7b4579de5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Story",
+            "screenshot": "screenshots\/story-pro.jpg",
+            "source": "templates\/story-6b65a2802927f27419f1bfe1bb03d3b1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Critics &amp; Awards 1",
+            "screenshot": "screenshots\/critics-amp-awards-1.jpg",
+            "source": "templates\/critics-amp-awards-1-88e9c3483ad48f48a1850799b841c5e8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Critics &amp; Awards 2",
+            "screenshot": "screenshots\/critics-amp-awards-2-pro.jpg",
+            "source": "templates\/critics-amp-awards-2-1bb88765768c210f02b205a4e087d363.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Press",
+            "screenshot": "screenshots\/press.jpg",
+            "source": "templates\/press-71dcf1019eea0a47726613e44aaed015.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cast &amp; Crew 1",
+            "screenshot": "screenshots\/cast-amp-crew-1.jpg",
+            "source": "templates\/cast-amp-crew-1-cd4a868455fd761bc47037fd7df36fac.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cast &amp; Crew 2",
+            "screenshot": "screenshots\/cast-amp-crew-2-pro.jpg",
+            "source": "templates\/cast-amp-crew-2-bbc2c154e2c4f9a100790b1ce70b97a9.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1-pro.jpg",
+            "source": "templates\/contact-1-e18454dd754bd6f242c5d049b79090e8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-c3765b785f938c588373077d0ec2c2ff.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 1",
+            "screenshot": "screenshots\/coming-soon-1.jpg",
+            "source": "templates\/coming-soon-1-684f552c8c19a48f1693c48aeb2d8087.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon 2",
+            "screenshot": "screenshots\/coming-soon-2-pro.jpg",
+            "source": "templates\/coming-soon-2-44099221a9d710bf00633e8a036dfbd2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-10f55ceec358b8413105f7bdcac3fc85.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": []
+}

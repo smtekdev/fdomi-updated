@@ -1,0 +1,243 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress21
+Data file = C:\xampp\htdocs\wordpress21/wp-content/uploads/2022/03/myreligiondemo.wordpress.2019-01-23.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import events_category Basic Sermon
+[WARNING] Failed to import srm-categs Child
+[WARNING] Failed to import pj-categs Church
+[WARNING] Failed to import srm-categs Church
+[WARNING] Failed to import cp-categs Donators
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import srm-categs Faith
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pj-categs God
+[WARNING] Failed to import srm-categs God
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import cp-categs Help
+[WARNING] Failed to import pj-categs Holy father
+[WARNING] Failed to import pj-categs Hope
+[WARNING] Failed to import pl-categs Horizontal
+[WARNING] Failed to import pj-categs Jesus
+[WARNING] Failed to import pj-categs Kids
+[WARNING] Failed to import pj-tags masonry puzzle
+[WARNING] Failed to import pj-categs Masonry Puzzle
+[WARNING] Failed to import pj-categs Ministries
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pl-categs Pastor
+[WARNING] Failed to import pj-categs Puzzle
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import srm-categs Religion
+[WARNING] Failed to import srm-tags Religion
+[WARNING] Failed to import cp-categs Safe
+[WARNING] Failed to import pl-categs Senior Pastor
+[WARNING] Failed to import events_category Sermon P.2
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import tribe_events_cat test
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pl-categs Volunteer
+[WARNING] Failed to import events_category Volunteer
+[WARNING] Failed to import product_cat bag
+[WARNING] Failed to import product_cat bug
+[WARNING] Failed to import product_cat case
+[WARNING] Failed to import product_cat crop top
+[WARNING] Failed to import product_cat cup
+[WARNING] Failed to import product_cat eco
+[WARNING] Failed to import product_cat jumper
+[WARNING] Failed to import product_cat T-short
+[WARNING] Failed to import product_cat tank
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "Untitled-1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import events_category Basic Sermon
+[WARNING] Failed to import srm-categs Child
+[WARNING] Failed to import pj-categs Church
+[WARNING] Failed to import srm-categs Church
+[WARNING] Failed to import cp-categs Donators
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import srm-categs Faith
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pj-categs God
+[WARNING] Failed to import srm-categs God
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import cp-categs Help
+[WARNING] Failed to import pj-categs Holy father
+[WARNING] Failed to import pj-categs Hope
+[WARNING] Failed to import pl-categs Horizontal
+[WARNING] Failed to import pj-categs Jesus
+[WARNING] Failed to import pj-categs Kids
+[WARNING] Failed to import pj-tags masonry puzzle
+[WARNING] Failed to import pj-categs Masonry Puzzle
+[WARNING] Failed to import pj-categs Ministries
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pl-categs Pastor
+[WARNING] Failed to import pj-categs Puzzle
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import srm-categs Religion
+[WARNING] Failed to import srm-tags Religion
+[WARNING] Failed to import cp-categs Safe
+[WARNING] Failed to import pl-categs Senior Pastor
+[WARNING] Failed to import events_category Sermon P.2
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import tribe_events_cat test
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pl-categs Volunteer
+[WARNING] Failed to import events_category Volunteer
+[WARNING] Failed to import product_cat bag
+[WARNING] Failed to import product_cat bug
+[WARNING] Failed to import product_cat case
+[WARNING] Failed to import product_cat crop top
+[WARNING] Failed to import product_cat cup
+[WARNING] Failed to import product_cat eco
+[WARNING] Failed to import product_cat jumper
+[WARNING] Failed to import product_cat T-short
+[WARNING] Failed to import product_cat tank
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "342466858" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import events_category Basic Sermon
+[WARNING] Failed to import srm-categs Child
+[WARNING] Failed to import pj-categs Church
+[WARNING] Failed to import srm-categs Church
+[WARNING] Failed to import cp-categs Donators
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import srm-categs Faith
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pj-categs God
+[WARNING] Failed to import srm-categs God
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import cp-categs Help
+[WARNING] Failed to import pj-categs Holy father
+[WARNING] Failed to import pj-categs Hope
+[WARNING] Failed to import pl-categs Horizontal
+[WARNING] Failed to import pj-categs Jesus
+[WARNING] Failed to import pj-categs Kids
+[WARNING] Failed to import pj-tags masonry puzzle
+[WARNING] Failed to import pj-categs Masonry Puzzle
+[WARNING] Failed to import pj-categs Ministries
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pl-categs Pastor
+[WARNING] Failed to import pj-categs Puzzle
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import srm-categs Religion
+[WARNING] Failed to import srm-tags Religion
+[WARNING] Failed to import cp-categs Safe
+[WARNING] Failed to import pl-categs Senior Pastor
+[WARNING] Failed to import events_category Sermon P.2
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import tribe_events_cat test
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pl-categs Volunteer
+[WARNING] Failed to import events_category Volunteer
+[WARNING] Failed to import product_cat bag
+[WARNING] Failed to import product_cat bug
+[WARNING] Failed to import product_cat case
+[WARNING] Failed to import product_cat crop top
+[WARNING] Failed to import product_cat cup
+[WARNING] Failed to import product_cat eco
+[WARNING] Failed to import product_cat jumper
+[WARNING] Failed to import product_cat T-short
+[WARNING] Failed to import product_cat tank
+[ERROR] Failed to import "1" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import events_category Basic Sermon
+[WARNING] Failed to import srm-categs Child
+[WARNING] Failed to import pj-categs Church
+[WARNING] Failed to import srm-categs Church
+[WARNING] Failed to import cp-categs Donators
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import srm-categs Faith
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pj-categs God
+[WARNING] Failed to import srm-categs God
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import cp-categs Help
+[WARNING] Failed to import pj-categs Holy father
+[WARNING] Failed to import pj-categs Hope
+[WARNING] Failed to import pl-categs Horizontal
+[WARNING] Failed to import pj-categs Jesus
+[WARNING] Failed to import pj-categs Kids
+[WARNING] Failed to import pj-tags masonry puzzle
+[WARNING] Failed to import pj-categs Masonry Puzzle
+[WARNING] Failed to import pj-categs Ministries
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pl-categs Pastor
+[WARNING] Failed to import pj-categs Puzzle
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import srm-categs Religion
+[WARNING] Failed to import srm-tags Religion
+[WARNING] Failed to import cp-categs Safe
+[WARNING] Failed to import pl-categs Senior Pastor
+[WARNING] Failed to import events_category Sermon P.2
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import tribe_events_cat test
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pl-categs Volunteer
+[WARNING] Failed to import events_category Volunteer
+[WARNING] Failed to import product_cat bag
+[WARNING] Failed to import product_cat bug
+[WARNING] Failed to import product_cat case
+[WARNING] Failed to import product_cat crop top
+[WARNING] Failed to import product_cat cup
+[WARNING] Failed to import product_cat eco
+[WARNING] Failed to import product_cat jumper
+[WARNING] Failed to import product_cat T-short
+[WARNING] Failed to import product_cat tank
+

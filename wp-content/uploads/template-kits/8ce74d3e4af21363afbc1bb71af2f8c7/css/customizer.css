@@ -1,0 +1,18 @@
+/* Envato Elements Template Kit CSS */
+
+/* 3 columns slider */
+@media (min-width: 1024px) {
+	.envato-kit-100-slider-3-col {
+		overflow: hidden;
+	}
+	.envato-kit-100-slider-3-col .slick-list {
+		overflow: visible;
+	}
+	.envato-kit-100-slider-3-col .slick-slide {
+		margin-left: 25px;
+		margin-right: 25px;
+	}
+	.envato-kit-100-slider-3-col .slick-arrow {
+		margin: 0 40px;
+	}
+}

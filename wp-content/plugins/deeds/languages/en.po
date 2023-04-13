@@ -1,0 +1,4997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deeds\n"
+"POT-Creation-Date: 2019-02-16 16:51+0500\n"
+"PO-Revision-Date: 2019-02-16 16:51+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:41 bbpress/form-search.php:17
+msgid "Search"
+msgstr ""
+
+#: archive.php:113 author.php:118 category.php:156
+#: framework/library/functions.php:570 search.php:103 tag.php:115
+msgid "comments"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:27 bbpress/loop-forums.php:28
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:32 bbpress/loop-forums.php:30
+#: bbpress/loop-replies.php:32 bbpress/loop-replies.php:70
+#: bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: bbpress/form-forum.php:44 bbpress/form-topic.php:93
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:46
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:46
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:56
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: bbpress/form-forum.php:64 bbpress/form-reply.php:54
+#: bbpress/form-topic.php:133
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-forum.php:76
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-forum.php:91 bbpress/form-reply.php:74
+#: bbpress/form-topic.php:191
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+msgid "Status:"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/form-forum.php:127
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-forum.php:132
+msgid "No Parent"
+msgstr ""
+
+#: bbpress/form-forum.php:147 bbpress/form-reply.php:145
+#: bbpress/form-topic-merge.php:102 bbpress/form-topic-split.php:105
+#: bbpress/form-topic.php:417 framework/modules/contactform.php:37
+#: single-product-reviews.php:69
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-forum.php:170
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-forum.php:178
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-forum.php:178
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-protected.php:24
+msgid "Protected"
+msgstr ""
+
+#: bbpress/form-reply.php:39
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:46
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:85
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:103 bbpress/form-topic.php:339
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:107 bbpress/form-topic.php:347
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:124 bbpress/form-topic.php:379
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:128 bbpress/form-topic.php:387
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:168
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:176 bbpress/form-topic.php:463
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:184
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:184
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:33
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:39
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:43
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:47
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:51
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:65
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:73 bbpress/form-topic-split.php:76
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:80
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:85
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:90
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:98 bbpress/form-topic-split.php:101
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:115 bbpress/form-topic-split.php:118
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:115 bbpress/form-topic-split.php:118
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:32
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:37
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:41
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:45
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:49
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-topic-split.php:50
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:57
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-topic-split.php:83
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:88
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:93
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+#: framework/tgm/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+#: tpl-wishlist.php:77 tpl-wishlist.php:101
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:97
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:97
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:117
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:161
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:213
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:239
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:245
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:277
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:301
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:479
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:479
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-user-edit.php:14 bbpress/form-user-edit.php:19
+#: framework/helpers/ajax.php:43 framework/library/functions.php:457
+#: framework/library/widgets.php:343 framework/library/widgets.php:789
+#: framework/modules/contactform.php:15
+#: framework/modules/shortcodes/church_form.php:65
+#: framework/modules/shortcodes/contact.php:44 framework/vc_map.php:283
+#: framework/vc_map.php:409 framework/vc_map.php:557 framework/vc_map.php:649
+#: framework/vc_map.php:907 framework/vc_map.php:999 framework/vc_map.php:1708
+#: framework/vc_map.php:1800 framework/vc_map.php:1966
+#: framework/vc_map.php:2678 framework/vc_map.php:3358
+#: framework/vc_map.php:3484 functions.php:841 single-product-reviews.php:64
+#: tpl-wishlist.php:73 woocommerce/single-product-reviews.php:81
+msgid "Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49 bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:57 framework/vc_map.php:1343
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:90 bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: bbpress/form-user-edit.php:98 bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-edit.php:103 bbpress/form-user-register.php:28
+#: framework/helpers/ajax.php:45 framework/library/functions.php:458
+#: framework/library/widgets.php:53 framework/library/widgets.php:791
+#: framework/modules/contactform.php:23
+#: framework/modules/shortcodes/church_form.php:67
+#: framework/modules/shortcodes/contact.php:45 framework/vc_map.php:1215
+#: framework/vc_map.php:1325 framework/vc_map.php:3212 functions.php:844
+#: single-product-reviews.php:66 woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:115
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: bbpress/form-user-edit.php:143 bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: bbpress/form-user-login.php:22 woocommerce/global/form-login.php:29
+#: woocommerce/shop/form-login.php:25
+msgid "Password"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: bbpress/form-user-register.php:36
+msgid "Register"
+msgstr ""
+
+#: bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: bbpress/loop-forums.php:26
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:30 bbpress/loop-replies.php:24
+#: bbpress/loop-replies.php:66 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:32 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-replies.php:18 bbpress/loop-replies.php:60
+#: bbpress/loop-search.php:18 bbpress/loop-search.php:40
+#: framework/library/widgets.php:345 framework/vc_map.php:283
+#: framework/vc_map.php:409 framework/vc_map.php:557 framework/vc_map.php:649
+#: framework/vc_map.php:907 framework/vc_map.php:999 framework/vc_map.php:1708
+#: framework/vc_map.php:1800 framework/vc_map.php:1966
+#: framework/vc_map.php:2678 framework/vc_map.php:3358
+#: framework/vc_map.php:3484
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:16
+#, php-format
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:22 bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:29
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:29 bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35
+#, php-format
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41
+#, php-format
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48
+#, php-format
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+#, php-format
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:65
+#, php-format
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:65
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:28
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-profile.php:24
+#, php-format
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:25
+#, php-format
+msgid "Topics Started: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+#, php-format
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:28
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:28
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+msgid "Subscribed Topics"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:47
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:28
+msgid "This user has not created any topics."
+msgstr ""
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single-product.php:74 framework/helpers/shortcodes.php:1189
+#: framework/helpers/shortcodes.php:1227 framework/helpers/shortcodes.php:3489
+#: framework/helpers/shortcodes.php:3517 framework/helpers/shortcodes.php:3905
+#: framework/library/widgets.php:39 framework/library/widgets.php:677
+#: framework/library/widgets.php:971 framework/library/widgets.php:1980
+#: framework/modules/shortcodes/church_form.php:11
+#: framework/modules/shortcodes/church_form.php:53
+#: framework/modules/shortcodes/church_form.php:151
+#: framework/modules/shortcodes/donations.php:35
+#: framework/modules/shortcodes/gallery.php:97
+#: framework/modules/shortcodes/gallery.php:225
+#: framework/modules/shortcodes/sermons.php:56
+#: framework/modules/shortcodes/services.php:27 single-cs_events.php:81
+#: single-cs_events.php:129 single-cs_sermons.php:158 single-cs_sermons.php:228
+#: single.php:166 single.php:264 woocommerce/cart/cart.php:49
+#: woocommerce/single-product2.php:42 woocommerce/single-product2.php:60
+msgid "image"
+msgstr ""
+
+#: content-single-product.php:89 woocommerce/single-product2.php:74
+msgid "Posted In"
+msgstr ""
+
+#: content-single-product.php:95 woocommerce/single-product2.php:80
+msgid "ADD TO WISHLIST"
+msgstr ""
+
+#: envato_setup/envato_setup.php:370 envato_setup/envato_setup.php:375
+msgid "Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:395
+msgid "Introduction"
+msgstr ""
+
+#: envato_setup/envato_setup.php:403
+msgid "Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:409
+msgid "Updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:415
+msgid "Demo Style"
+msgstr ""
+
+#: envato_setup/envato_setup.php:421 framework/vc_map.php:829
+#: framework/vc_map.php:1393 framework/vc_map.php:2808
+#: framework/vc_map.php:2846
+msgid "Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:431
+msgid "Customize"
+msgstr ""
+
+#: envato_setup/envato_setup.php:436
+msgid "Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:441
+msgid "Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:474
+msgid "...verifying"
+msgstr ""
+
+#: envato_setup/envato_setup.php:529
+msgid "Theme &rsaquo; Setup Wizard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:561
+msgid "Return to the WordPress Dashboard"
+msgstr ""
+
+#: envato_setup/envato_setup.php:643 envato_setup/envato_setup.php:654
+#: envato_setup/envato_setup.php:677
+#, php-format
+msgid "Welcome to the setup wizard for %s."
+msgstr ""
+
+#: envato_setup/envato_setup.php:644
+msgid ""
+"It looks like you may have recently upgraded to this theme. Great! This "
+"setup wizard will help ensure all the default settings are correct. It will "
+"also show some information about your new website and support options."
+msgstr ""
+
+#: envato_setup/envato_setup.php:647 envato_setup/envato_setup.php:682
+msgid "Let's Go!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:649 envato_setup/envato_setup.php:684
+msgid "Not right now"
+msgstr ""
+
+#: envato_setup/envato_setup.php:655
+msgid ""
+"It looks like you have already run the setup wizard. Below are some options: "
+msgstr ""
+
+#: envato_setup/envato_setup.php:659
+msgid "Run Setup Wizard Again"
+msgstr ""
+
+#: envato_setup/envato_setup.php:665
+msgid "Reset font style and colors"
+msgstr ""
+
+#: envato_setup/envato_setup.php:672
+msgid "Cancel"
+msgstr ""
+
+#: envato_setup/envato_setup.php:678
+#, php-format
+msgid ""
+"Thank you for choosing the %s theme from ThemeForest. This quick setup "
+"wizard will help you configure your new website. This wizard will install "
+"the required WordPress plugins, default content, logo and tell you a little "
+"about Help &amp; Support options. It should only take 5 minutes."
+msgstr ""
+
+#: envato_setup/envato_setup.php:679
+msgid ""
+"No time right now? If you don't want to go through the wizard, you can skip "
+"and return to the WordPress dashboard. Come back anytime if you change your "
+"mind!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:728
+msgid ""
+"Options have been reset. Please go to Appearance > Customize in the "
+"WordPress backend."
+msgstr ""
+
+#: envato_setup/envato_setup.php:804
+msgid "Default Plugins"
+msgstr ""
+
+#: envato_setup/envato_setup.php:811
+msgid ""
+"Your website needs a few essential plugins. The following plugins will be "
+"installed or updated:"
+msgstr ""
+
+#: envato_setup/envato_setup.php:836
+msgid ""
+"Good news! All plugins are already installed and up to date. Please continue."
+msgstr ""
+
+#: envato_setup/envato_setup.php:839
+msgid "You can add and remove plugins later on from within WordPress."
+msgstr ""
+
+#: envato_setup/envato_setup.php:844 envato_setup/envato_setup.php:1036
+#: envato_setup/envato_setup.php:2301 envato_setup/envato_setup.php:2372
+#: envato_setup/envato_setup.php:2456 envato_setup/envato_setup.php:2528
+msgid "Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:846 envato_setup/envato_setup.php:1038
+#: envato_setup/envato_setup.php:2303 envato_setup/envato_setup.php:2374
+#: envato_setup/envato_setup.php:2472
+msgid "Skip this step"
+msgstr ""
+
+#: envato_setup/envato_setup.php:856
+msgid "No Slug Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:872
+msgid "Activating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:887
+msgid "Updating Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:902
+msgid "Installing Plugin"
+msgstr ""
+
+#: envato_setup/envato_setup.php:912 functions.php:1209 functions.php:1245
+msgid "Success"
+msgstr ""
+
+#: envato_setup/envato_setup.php:934
+#, php-format
+msgid "This will create default %s as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:935 envato_setup/envato_setup.php:948
+#: envato_setup/envato_setup.php:958 envato_setup/envato_setup.php:968
+#: envato_setup/envato_setup.php:978 envato_setup/envato_setup_init.php:67
+msgid "Pending."
+msgstr ""
+
+#: envato_setup/envato_setup.php:936
+msgid "Installing."
+msgstr ""
+
+#: envato_setup/envato_setup.php:937 envato_setup/envato_setup.php:950
+#: envato_setup/envato_setup.php:960 envato_setup/envato_setup.php:970
+#: envato_setup/envato_setup.php:980 envato_setup/envato_setup_init.php:69
+msgid "Success."
+msgstr ""
+
+#: envato_setup/envato_setup.php:946
+msgid "Widgets"
+msgstr ""
+
+#: envato_setup/envato_setup.php:947
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr ""
+
+#: envato_setup/envato_setup.php:949
+msgid "Installing Default Widgets."
+msgstr ""
+
+#: envato_setup/envato_setup.php:956
+msgid "Settings"
+msgstr ""
+
+#: envato_setup/envato_setup.php:957
+msgid "Configure default settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:959
+msgid "Installing Default Settings."
+msgstr ""
+
+#: envato_setup/envato_setup.php:966
+msgid "LayerSlider"
+msgstr ""
+
+#: envato_setup/envato_setup.php:967
+msgid "Install layerslider demo content."
+msgstr ""
+
+#: envato_setup/envato_setup.php:969
+msgid "Installing layerslider content."
+msgstr ""
+
+#: envato_setup/envato_setup.php:976
+msgid "Revslider"
+msgstr ""
+
+#: envato_setup/envato_setup.php:977
+msgid "Install revslider demo content."
+msgstr ""
+
+#: envato_setup/envato_setup.php:979
+msgid "Installing revslider content."
+msgstr ""
+
+#: envato_setup/envato_setup.php:996
+msgid "Default Content"
+msgstr ""
+
+#: envato_setup/envato_setup.php:999
+msgid ""
+"It looks like you already have content installed on this website. If you "
+"would like to install the default demo content as well you can select it "
+"below. Otherwise just choose the upgrade option to ensure everything is up "
+"to date."
+msgstr ""
+
+#: envato_setup/envato_setup.php:1001
+msgid ""
+"It's time to insert some default content for your new WordPress website. "
+"Choose what you would like inserted below and click Continue. It is "
+"recommended to leave everything selected. Once inserted, this content can be "
+"managed from the WordPress admin dashboard. "
+msgstr ""
+
+#: envato_setup/envato_setup.php:1007
+msgid "Item"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1008 framework/vc_map.php:1870
+#: framework/vc_map.php:3594
+msgid "Description"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1009
+#: framework/tgm/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1049
+msgid "No content Found"
+msgstr ""
+
+#: envato_setup/envato_setup.php:1117
+msgid "Error"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2032
+msgid "Remote server did not respond"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2040
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2046
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2052
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2265
+msgid "Site Style"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2267
+msgid "Please choose your site style below."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2332
+msgid "Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2334
+#, php-format
+msgid ""
+"Please add your logo below. For best results, the logo should be a "
+"transparent PNG ( 466 by 277 pixels). The logo can be changed at any time "
+"from the Appearance > Customize area in your dashboard. Try %sEnvato Studio"
+"%s if you need a new logo designed."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2354
+msgid "Upload New Logo"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2359
+msgid ""
+"Please Note: Advanced changes to website graphics/colors may require "
+"extensive PhotoShop and Web\n"
+"\t\t\t\t\t\tDevelopment knowledge. We recommend hiring an expert from"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2428
+msgid "Theme Updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2461
+msgid ""
+"Please login using your ThemeForest account to enable Theme Updates. We "
+"update themes when a new feature is added or a bug is fixed. It is highly "
+"recommended to enable Theme Updates."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2462
+msgid ""
+"When an update becomes available it will show in the Dashboard with an "
+"option to install."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2464
+msgid ""
+" On the next page you will be asked to Login with your ThemeForest account "
+"and grant\n"
+"\t\t\t\t\t\t\t\tpermissions to enable Automatic Updates. If you have any "
+"questions please."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2466
+msgid " contact us"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2470
+msgid "Login with Envato"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2557
+msgid "Envato Studio"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2561
+msgid "More details about item support can be found in the ThemeForest"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2562
+msgid "Item Support Policy"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2565
+msgid "Agree and Continue"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2593
+msgid "Your Website is Ready!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2603
+msgid "Next Steps"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2607
+msgid "Follow @webinane on Twitter"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2610
+msgid "View your new website!"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2615
+msgid "More Resources"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2618
+msgid "Read the Theme Documentation"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2621
+msgid "Learn how to use WordPress"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2624
+msgid "Leave an Item Rating"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2626
+msgid "Get Help and Support"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2693
+#, php-format
+msgid "Something went wrong while trying to retrieve oauth token: %s"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2710
+#, php-format
+msgid "Login for %s updates"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2717
+msgid "oAuth Login"
+msgstr ""
+
+#: envato_setup/envato_setup.php:2875
+msgid ""
+"Please activate ThemeForest updates to ensure you have the latest version of "
+"this theme."
+msgstr ""
+
+#: envato_setup/envato_setup.php:2878
+#, php-format
+msgid "<a class=\"button button-primary\" href=\"%s\">Activate Updates</a>"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:65
+msgid "Upgrade"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:66
+msgid "Upgrade Content and Settings"
+msgstr ""
+
+#: envato_setup/envato_setup_init.php:68
+msgid "Installing Updates."
+msgstr ""
+
+#: footer.php:69
+msgid "&copy; 2014"
+msgstr ""
+
+#: footer.php:69
+msgid "Hala Church"
+msgstr ""
+
+#: footer.php:69
+msgid "Wordpress All rights reserved. Design by"
+msgstr ""
+
+#: footer.php:69
+msgid "Webinane"
+msgstr ""
+
+#: footer.php:162
+msgid "Seats"
+msgstr ""
+
+#: footer.php:166
+msgid "Available"
+msgstr ""
+
+#: footer.php:198 header.php:74 header.php:220
+msgid "days"
+msgstr ""
+
+#: footer.php:204 header.php:77 header.php:223
+msgid "hours"
+msgstr ""
+
+#: footer.php:210 header.php:80 header.php:226
+msgid "minutes"
+msgstr ""
+
+#: footer.php:216 header.php:83 header.php:229
+msgid "seconds"
+msgstr ""
+
+#: footer.php:257
+msgid "Login/Register Now"
+msgstr ""
+
+#: framework/helpers/ajax.php:47 framework/library/functions.php:459
+#: framework/modules/contactform.php:31
+msgid "Message"
+msgstr ""
+
+#: framework/helpers/ajax.php:91 framework/library/functions.php:476
+msgid "Contact Us Message"
+msgstr ""
+
+#: framework/helpers/ajax.php:93 framework/library/functions.php:478
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our contact form! Your email was "
+"successfully sent and we will be in touch with you soon."
+msgstr ""
+
+#: framework/helpers/ajax.php:97 framework/library/functions.php:481
+msgid "SUCCESS! "
+msgstr ""
+
+#: framework/helpers/ajax.php:105
+msgid "Error! Invalid Captcha "
+msgstr ""
+
+#: framework/helpers/ajax.php:119 framework/library/functions.php:487
+msgid "Error! "
+msgstr ""
+
+#: framework/helpers/ajax.php:152
+msgid "You have already added this product to wish list"
+msgstr ""
+
+#: framework/helpers/ajax.php:160 framework/helpers/ajax.php:166
+msgid "Product successfully added to wishlist"
+msgstr ""
+
+#: framework/helpers/ajax.php:172
+msgid "Please login first to add the product to your wishlist"
+msgstr ""
+
+#: framework/helpers/ajax.php:200
+msgid "Product is successfully deleted from wishlist"
+msgstr ""
+
+#: framework/helpers/ajax.php:204
+msgid "Unable to find this product into wishlist"
+msgstr ""
+
+#: framework/helpers/ajax.php:210
+msgid "Unable to retrieve your wishlist"
+msgstr ""
+
+#: framework/helpers/ajax.php:216
+msgid "Please login first to add/delete product in your wishlist"
+msgstr ""
+
+#: framework/helpers/ajax.php:298 framework/helpers/ajax.php:390
+msgid "Meet A Request"
+msgstr ""
+
+#: framework/helpers/ajax.php:302 framework/helpers/ajax.php:346
+#: framework/helpers/ajax.php:394
+msgid ""
+"Your Request was successfully sent and we will be in touch with you soon."
+msgstr ""
+
+#: framework/helpers/ajax.php:308
+msgid "The message was not sent!"
+msgstr ""
+
+#: framework/helpers/donation.php:63
+#: framework/modules/shortcodes/donation.php:77
+msgid "Donation"
+msgstr ""
+
+#: framework/helpers/donation.php:63 framework/helpers/donation.php:101
+#: framework/helpers/donation.php:155
+#: framework/modules/shortcodes/donation_box.php:59
+msgid "DONATE NOW"
+msgstr ""
+
+#: framework/helpers/donation.php:99
+#: framework/modules/shortcodes/donation.php:113
+msgid "ENTER YOUR AMOUNT PLEASE"
+msgstr ""
+
+#: framework/helpers/donation.php:233 functions.php:1414
+msgid "Thank you for your payment."
+msgstr ""
+
+#: framework/helpers/donation.php:295
+#: framework/modules/shortcodes/donation.php:346
+msgid ""
+"<p class=\"errormsg donationmsg\">The transaction is already in our record.</"
+"p>"
+msgstr ""
+
+#: framework/helpers/donation.php:303
+#: framework/modules/shortcodes/donation.php:354
+msgid "Thank you for your donation."
+msgstr ""
+
+#: framework/helpers/donation.php:311
+#: framework/modules/shortcodes/donation.php:362
+msgid "Sorry! unfortunetly the transaction is failed."
+msgstr ""
+
+#: framework/helpers/enqueue.php:309
+msgid "Please Enter"
+msgstr ""
+
+#: framework/helpers/enqueue.php:313
+msgid "Amount"
+msgstr ""
+
+#: framework/helpers/enqueue.php:317
+msgid "Card Number"
+msgstr ""
+
+#: framework/helpers/enqueue.php:321
+msgid "Card Expire Mounth"
+msgstr ""
+
+#: framework/helpers/enqueue.php:325
+msgid "Card Expire Year"
+msgstr ""
+
+#: framework/helpers/enqueue.php:329
+msgid "Card CVC Number"
+msgstr ""
+
+#: framework/helpers/enqueue.php:333
+msgid "Your Tocken Has Been Expire. Please Start From Over"
+msgstr ""
+
+#: framework/helpers/enqueue.php:359
+msgid "Payments Details Not Configured"
+msgstr ""
+
+#: framework/helpers/functions.php:43 framework/library/functions.php:174
+msgid "Like us on Facebook"
+msgstr ""
+
+#: framework/helpers/functions.php:43 framework/library/functions.php:174
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: framework/helpers/functions.php:43 framework/library/functions.php:174
+msgid "Circle Us on Google Plus"
+msgstr ""
+
+#: framework/helpers/functions.php:43 framework/library/functions.php:174
+msgid "Follow us on Linkedin"
+msgstr ""
+
+#: framework/helpers/functions.php:43 framework/library/functions.php:174
+msgid "Follow us on Xing"
+msgstr ""
+
+#: framework/helpers/functions.php:43 framework/library/functions.php:174
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: framework/helpers/prayers.php:39
+msgid "&laquo;"
+msgstr ""
+
+#: framework/helpers/prayers.php:40
+msgid "&raquo;"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:2019
+msgid "pastor image"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:2111
+msgid "Products"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:2415
+msgid "Think people should hear about this?"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3031 framework/helpers/shortcodes.php:3161
+msgid "READ MORE"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3261
+msgid "NEEDED EVERY YEAR"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3271
+msgid "SPENT"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3281
+msgid "PROJECTS"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3623
+msgid "Show All"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3625 framework/library/widgets.php:711
+msgid "Popular"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3627
+msgid "Recent"
+msgstr ""
+
+#: framework/helpers/shortcodes.php:3629
+msgid "Featured"
+msgstr ""
+
+#: framework/helpers/validation.php:591
+msgid "Unable to find validation rules"
+msgstr ""
+
+#: framework/helpers/validation.php:995
+msgid "The field was not set"
+msgstr ""
+
+#: framework/helpers/validation.php:1279
+msgid "Unable to access an error message corresponding to your field name."
+msgstr ""
+
+#: framework/helpers/validation.php:2557
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: framework/helpers/validation.php:2559
+#, php-format
+msgid "The %s field must have a value."
+msgstr ""
+
+#: framework/helpers/validation.php:2561
+#, php-format
+msgid "The %s field must contain a valid email address."
+msgstr ""
+
+#: framework/helpers/validation.php:2563
+#, php-format
+msgid "The %s field must contain all valid email addresses."
+msgstr ""
+
+#: framework/helpers/validation.php:2565
+#, php-format
+msgid "The %s field must contain a valid URL."
+msgstr ""
+
+#: framework/helpers/validation.php:2567
+#, php-format
+msgid "The %s field must contain a valid IP."
+msgstr ""
+
+#: framework/helpers/validation.php:2569
+#, php-format
+msgid "The %s field must be at least %s characters in length."
+msgstr ""
+
+#: framework/helpers/validation.php:2571
+#, php-format
+msgid "The %s field can not exceed %s characters in length."
+msgstr ""
+
+#: framework/helpers/validation.php:2573
+#, php-format
+msgid "The %s field must be exactly %s characters in length."
+msgstr ""
+
+#: framework/helpers/validation.php:2575
+#, php-format
+msgid "The %s field may only contain alphabetical characters."
+msgstr ""
+
+#: framework/helpers/validation.php:2577
+#, php-format
+msgid "The %s field may only contain alph-space characters."
+msgstr ""
+
+#: framework/helpers/validation.php:2579
+#, php-format
+msgid "The %s field may only contain alpha-numeric characters."
+msgstr ""
+
+#: framework/helpers/validation.php:2581
+#, php-format
+msgid ""
+"The %s field may only contain alpha-numeric characters, underscores, and "
+"dashes."
+msgstr ""
+
+#: framework/helpers/validation.php:2583
+#, php-format
+msgid "The %s field must contain only numbers."
+msgstr ""
+
+#: framework/helpers/validation.php:2585
+#, php-format
+msgid "The %s field must contain only numeric characters."
+msgstr ""
+
+#: framework/helpers/validation.php:2587
+#, php-format
+msgid "The %s field must contain an integer."
+msgstr ""
+
+#: framework/helpers/validation.php:2589
+#, php-format
+msgid "The %s field is not in the correct format."
+msgstr ""
+
+#: framework/helpers/validation.php:2591
+#, php-format
+msgid "The %s field does not match the %s field."
+msgstr ""
+
+#: framework/helpers/validation.php:2593
+#, php-format
+msgid "The %s field must contain only positive numbers."
+msgstr ""
+
+#: framework/helpers/validation.php:2595
+#, php-format
+msgid "The %s field must contain a number greater than zero."
+msgstr ""
+
+#: framework/helpers/validation.php:2597
+#, php-format
+msgid "The %s field must contain a decimal number."
+msgstr ""
+
+#: framework/helpers/validation.php:2599
+#, php-format
+msgid "The %s field must contain a number less than %s."
+msgstr ""
+
+#: framework/helpers/validation.php:2601
+#, php-format
+msgid "The %s field must contain a number greater than %s."
+msgstr ""
+
+#: framework/helpers/validation.php:2603
+#, php-format
+msgid "The %s field must contain a file extension %s."
+msgstr ""
+
+#: framework/library/functions.php:133 framework/library/functions.php:135
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/library/functions.php:199
+msgid "Poor"
+msgstr ""
+
+#: framework/library/functions.php:199
+msgid "Satisfactory"
+msgstr ""
+
+#: framework/library/functions.php:199 single-product-reviews.php:78
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr ""
+
+#: framework/library/functions.php:199
+msgid "Better"
+msgstr ""
+
+#: framework/library/functions.php:199
+msgid "Awesome"
+msgstr ""
+
+#: framework/library/functions.php:216
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: framework/library/functions.php:287
+msgid "You must agreed the policy"
+msgstr ""
+
+#: framework/library/functions.php:301
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: framework/library/functions.php:304
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: framework/library/functions.php:323
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/library/functions.php:378
+msgid "*Name"
+msgstr ""
+
+#: framework/library/functions.php:379
+msgid "*Email"
+msgstr ""
+
+#: framework/library/functions.php:382
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: framework/library/functions.php:386
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: framework/library/functions.php:387
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: framework/library/functions.php:388
+msgid "Your email address will not be published."
+msgstr ""
+
+#: framework/library/functions.php:389
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: framework/library/functions.php:392
+msgid "<i class=\"theme-icon big comment-icon\"></i>Leave a Reply"
+msgstr ""
+
+#: framework/library/functions.php:393 single-product-reviews.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: framework/library/functions.php:394
+msgid "Cancel reply"
+msgstr ""
+
+#: framework/library/functions.php:395
+msgid "Comment"
+msgstr ""
+
+#: framework/library/functions.php:462
+msgid "Invalid captcha entered, please try again."
+msgstr ""
+
+#: framework/library/functions.php:507
+msgid "<i class=\"icon-angle-right\"></i>"
+msgstr ""
+
+#: framework/library/functions.php:507
+msgid "<i class=\"icon-angle-left\"></i>"
+msgstr ""
+
+#: framework/library/functions.php:566
+#: framework/modules/shortcodes/blog-shortcodes.php:155
+msgid "Read More"
+msgstr ""
+
+#: framework/library/functions.php:598
+msgid "Share on Linkedin"
+msgstr ""
+
+#: framework/library/functions.php:600
+msgid "Share on Google Plus"
+msgstr ""
+
+#: framework/library/functions.php:604
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework/library/functions.php:607
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework/library/functions.php:1003
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/library/widgets.php:12
+msgid "Deeds About US"
+msgstr ""
+
+#: framework/library/widgets.php:12
+msgid "This widgtes is used to add About Us Details to Footer"
+msgstr ""
+
+#: framework/library/widgets.php:49
+msgid "Telephone "
+msgstr ""
+
+#: framework/library/widgets.php:57 framework/vc_map.php:1289
+msgid "Address"
+msgstr ""
+
+#: framework/library/widgets.php:149 framework/library/widgets.php:319
+#: framework/library/widgets.php:499 framework/library/widgets.php:613
+#: framework/library/widgets.php:721 framework/library/widgets.php:903
+#: framework/library/widgets.php:1045 framework/library/widgets.php:1212
+#: framework/library/widgets.php:1378 framework/library/widgets.php:1601
+#: framework/library/widgets.php:1708 framework/library/widgets.php:1890
+#: framework/library/widgets.php:2078 framework/library/widgets.php:2225
+#: framework/library/widgets.php:2369
+msgid "Title:"
+msgstr ""
+
+#: framework/library/widgets.php:157
+msgid "Logo Url:"
+msgstr ""
+
+#: framework/library/widgets.php:165 framework/library/widgets.php:621
+msgid "Text:"
+msgstr ""
+
+#: framework/library/widgets.php:173
+msgid "Address:"
+msgstr ""
+
+#: framework/library/widgets.php:181
+msgid "Email:"
+msgstr ""
+
+#: framework/library/widgets.php:189
+msgid "Phone:"
+msgstr ""
+
+#: framework/library/widgets.php:217
+msgid "Deeds Blog Posts"
+msgstr ""
+
+#: framework/library/widgets.php:217
+msgid "This widgtes is used to show Blog Posts to Footer"
+msgstr ""
+
+#: framework/library/widgets.php:327
+msgid "Number:"
+msgstr ""
+
+#: framework/library/widgets.php:335
+msgid "Order By:"
+msgstr ""
+
+#: framework/library/widgets.php:339 framework/vc_map.php:283
+#: framework/vc_map.php:409 framework/vc_map.php:557 framework/vc_map.php:649
+#: framework/vc_map.php:907 framework/vc_map.php:999 framework/vc_map.php:1708
+#: framework/vc_map.php:1800 framework/vc_map.php:1966
+#: framework/vc_map.php:2678 framework/vc_map.php:3358
+#: framework/vc_map.php:3484
+msgid "Date"
+msgstr ""
+
+#: framework/library/widgets.php:341 framework/vc_map.php:283
+#: framework/vc_map.php:409 framework/vc_map.php:557 framework/vc_map.php:649
+#: framework/vc_map.php:701 framework/vc_map.php:775 framework/vc_map.php:907
+#: framework/vc_map.php:999 framework/vc_map.php:1069 framework/vc_map.php:1197
+#: framework/vc_map.php:1407 framework/vc_map.php:1708
+#: framework/vc_map.php:1800 framework/vc_map.php:1852
+#: framework/vc_map.php:1966 framework/vc_map.php:2620
+#: framework/vc_map.php:2678 framework/vc_map.php:2792
+#: framework/vc_map.php:3358 framework/vc_map.php:3484
+msgid "Title"
+msgstr ""
+
+#: framework/library/widgets.php:347 framework/vc_map.php:283
+#: framework/vc_map.php:409 framework/vc_map.php:557 framework/vc_map.php:649
+#: framework/vc_map.php:907 framework/vc_map.php:999 framework/vc_map.php:1708
+#: framework/vc_map.php:1800 framework/vc_map.php:1966
+#: framework/vc_map.php:2678 framework/vc_map.php:3358
+#: framework/vc_map.php:3484
+msgid "Comment Count"
+msgstr ""
+
+#: framework/library/widgets.php:349 framework/vc_map.php:283
+#: framework/vc_map.php:409 framework/vc_map.php:557 framework/vc_map.php:649
+#: framework/vc_map.php:907 framework/vc_map.php:999 framework/vc_map.php:1708
+#: framework/vc_map.php:1800 framework/vc_map.php:1966
+#: framework/vc_map.php:2678 framework/vc_map.php:3358
+#: framework/vc_map.php:3484
+msgid "Random"
+msgstr ""
+
+#: framework/library/widgets.php:357
+msgid "Order:"
+msgstr ""
+
+#: framework/library/widgets.php:361 framework/vc_map.php:209
+#: framework/vc_map.php:301 framework/vc_map.php:427 framework/vc_map.php:575
+#: framework/vc_map.php:667 framework/vc_map.php:925 framework/vc_map.php:1017
+#: framework/vc_map.php:1634 framework/vc_map.php:1726
+#: framework/vc_map.php:1818 framework/vc_map.php:1984
+#: framework/vc_map.php:2240 framework/vc_map.php:2714
+#: framework/vc_map.php:3286 framework/vc_map.php:3376
+#: framework/vc_map.php:3502 framework/vc_map.php:3966
+msgid "Ascending Order"
+msgstr ""
+
+#: framework/library/widgets.php:363 framework/vc_map.php:209
+#: framework/vc_map.php:301 framework/vc_map.php:427 framework/vc_map.php:575
+#: framework/vc_map.php:667 framework/vc_map.php:925 framework/vc_map.php:1017
+#: framework/vc_map.php:1634 framework/vc_map.php:1726
+#: framework/vc_map.php:1818 framework/vc_map.php:1984
+#: framework/vc_map.php:2240 framework/vc_map.php:2714
+#: framework/vc_map.php:3286 framework/vc_map.php:3376
+#: framework/vc_map.php:3502 framework/vc_map.php:3966
+msgid "Descending Order"
+msgstr ""
+
+#: framework/library/widgets.php:391
+msgid "Deeds Flickr Feed"
+msgstr ""
+
+#: framework/library/widgets.php:391
+msgid "Fetch the latest feed from Flickr"
+msgstr ""
+
+#: framework/library/widgets.php:491
+msgid "OUR FLICKR"
+msgstr ""
+
+#: framework/library/widgets.php:507
+msgid "Flickr ID:"
+msgstr ""
+
+#: framework/library/widgets.php:515 framework/library/widgets.php:2397
+msgid "Number of Tweets:"
+msgstr ""
+
+#: framework/library/widgets.php:537
+msgid "Deeds News Letter Subscription"
+msgstr ""
+
+#: framework/library/widgets.php:537
+msgid "This widgtes is used to add news letter subscription form to Footer"
+msgstr ""
+
+#: framework/library/widgets.php:565
+msgid "EMAIL ADDRESS"
+msgstr ""
+
+#: framework/library/widgets.php:567
+msgid "SIGN UP NOW"
+msgstr ""
+
+#: framework/library/widgets.php:603
+msgid "NEWSLETTER SIGNUP"
+msgstr ""
+
+#: framework/library/widgets.php:647
+msgid "Deeds Video"
+msgstr ""
+
+#: framework/library/widgets.php:647
+msgid "This widgtes is used to add Video to sidebar."
+msgstr ""
+
+#: framework/library/widgets.php:729
+msgid "Video Link:"
+msgstr ""
+
+#: framework/library/widgets.php:753
+msgid "Deeds Contact Form"
+msgstr ""
+
+#: framework/library/widgets.php:753
+msgid "This widgtes is used to add Contact Form to sidebar."
+msgstr ""
+
+#: framework/library/widgets.php:793
+msgid "Enter Your Message"
+msgstr ""
+
+#: framework/library/widgets.php:797
+msgid "send"
+msgstr ""
+
+#: framework/library/widgets.php:893
+msgid "Quick Message"
+msgstr ""
+
+#: framework/library/widgets.php:911
+msgid "Enter Your Email:"
+msgstr ""
+
+#: framework/library/widgets.php:935
+msgid "Deeds Our Gallery"
+msgstr ""
+
+#: framework/library/widgets.php:935
+msgid "This widgtes is used to show gallery images"
+msgstr ""
+
+#: framework/library/widgets.php:1053
+msgid "Select Gallery:"
+msgstr ""
+
+#: framework/library/widgets.php:1086
+msgid "Deeds Latest Event With Description"
+msgstr ""
+
+#: framework/library/widgets.php:1086
+msgid "This widgtes is show latest event with description"
+msgstr ""
+
+#: framework/library/widgets.php:1220 framework/library/widgets.php:1386
+#: framework/library/widgets.php:1609
+msgid "Select Event:"
+msgstr ""
+
+#: framework/library/widgets.php:1254
+msgid "Deeds Latest Event Without Description"
+msgstr ""
+
+#: framework/library/widgets.php:1254
+msgid "This widgtes is show latest event without description"
+msgstr ""
+
+#: framework/library/widgets.php:1422
+msgid "Deeds Upcoming Event With Timer"
+msgstr ""
+
+#: framework/library/widgets.php:1422
+msgid "This widgtes is show upcoming event wiht countdown"
+msgstr ""
+
+#: framework/library/widgets.php:1642
+msgid "Deeds Donate Us"
+msgstr ""
+
+#: framework/library/widgets.php:1642
+msgid "This widgtes is show donate us box"
+msgstr ""
+
+#: framework/library/widgets.php:1700
+msgid "GIVE US DONATIONS"
+msgstr ""
+
+#: framework/library/widgets.php:1702 functions.php:925 functions.php:950
+#: functions.php:1020 functions.php:1082
+msgid "Donate Now"
+msgstr ""
+
+#: framework/library/widgets.php:1718
+msgid "Box Title:"
+msgstr ""
+
+#: framework/library/widgets.php:1728
+msgid "Button Title:"
+msgstr ""
+
+#: framework/library/widgets.php:1752
+msgid "Deeds Recent Sermons"
+msgstr ""
+
+#: framework/library/widgets.php:1752
+msgid "This widgtes is show Recent Sermons"
+msgstr ""
+
+#: framework/library/widgets.php:1898
+msgid "Select Sermons:"
+msgstr ""
+
+#: framework/library/widgets.php:1932
+msgid "Deeds Pastor Messages"
+msgstr ""
+
+#: framework/library/widgets.php:1932
+msgid "This widgtes is show Pastor Messages"
+msgstr ""
+
+#: framework/library/widgets.php:2088
+msgid "Number of Posts:"
+msgstr ""
+
+#: framework/library/widgets.php:2110
+msgid "Deeds Instagram Feeds"
+msgstr ""
+
+#: framework/library/widgets.php:2110
+msgid "This widgtes is used to show instagram feeds."
+msgstr ""
+
+#: framework/library/widgets.php:2233
+msgid "Feeds Number:"
+msgstr ""
+
+#: framework/library/widgets.php:2241
+msgid "Instagram User ID:"
+msgstr ""
+
+#: framework/library/widgets.php:2249
+msgid "Instagram Access Token:"
+msgstr ""
+
+#: framework/library/widgets.php:2255
+#, php-format
+msgid "To get your instagram access token %s"
+msgstr ""
+
+#: framework/library/widgets.php:2273
+msgid "Deeds Twitter Tweets"
+msgstr ""
+
+#: framework/library/widgets.php:2273
+msgid "This widget is used to show twitter tweets."
+msgstr ""
+
+#: framework/library/widgets.php:2357
+msgid "Latest Tweets"
+msgstr ""
+
+#: framework/library/widgets.php:2379
+msgid "Sub Title:"
+msgstr ""
+
+#: framework/library/widgets.php:2389
+msgid "Twitter ID:"
+msgstr ""
+
+#: framework/modules/blog.php:23
+msgid "read more "
+msgstr ""
+
+#: framework/modules/cart_items.php:51
+msgid "Sub-Total"
+msgstr ""
+
+#: framework/modules/cart_items.php:59
+msgid "The cart is empty"
+msgstr ""
+
+#: framework/modules/products_slider.php:77
+msgid "Add To Cart"
+msgstr ""
+
+#: framework/modules/products_slider.php:81
+msgid "Loading"
+msgstr ""
+
+#: framework/modules/products_slider.php:89
+msgid "Buy Now"
+msgstr ""
+
+#: framework/modules/related_portfolio.php:3
+msgid "Related Portfolio Items"
+msgstr ""
+
+#: framework/modules/services.php:17 framework/vc_map.php:3784
+msgid "Services"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:69
+#: framework/modules/shortcodes/church_form.php:211
+msgid "Write Your Words"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:71
+#: framework/modules/shortcodes/church_form.php:213
+msgid "Send"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:163
+msgid "Male"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:165
+msgid "Female"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:167
+msgid "Other"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:173
+msgid "14 - 20 years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:175
+msgid "20 - 25 years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:177
+msgid "25 - 35 years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:179
+msgid "35 - 42 years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:181
+msgid "42 - 50 years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:183
+msgid "50 - 60 years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:185
+msgid "60 - 60 plus years"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:191
+msgid "Asian"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:193
+msgid "European"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:195
+msgid "Sub Continent"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:197
+msgid "African"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:199
+msgid "American"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:201
+msgid "Russian"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:205
+msgid "Enter Your Name"
+msgstr ""
+
+#: framework/modules/shortcodes/church_form.php:207
+msgid "Enter Your Email"
+msgstr ""
+
+#: framework/modules/shortcodes/contact.php:53
+msgid "SUBMIT"
+msgstr ""
+
+#: framework/modules/shortcodes/donation.php:77
+#: framework/modules/shortcodes/donation.php:119
+msgid "DONATE"
+msgstr ""
+
+#: framework/modules/shortcodes/donation_box.php:43
+#: framework/modules/shortcodes/donation_box.php:87
+#: framework/modules/shortcodes/donation_model.php:143 functions.php:774
+msgid "NEEDED DONATION"
+msgstr ""
+
+#: framework/modules/shortcodes/donation_model.php:41
+msgid "Collected Donation"
+msgstr ""
+
+#: framework/modules/shortcodes/donation_model.php:85
+msgid "Collected Needed"
+msgstr ""
+
+#: framework/modules/shortcodes/donation_model.php:145
+msgid "IN"
+msgstr ""
+
+#: framework/modules/shortcodes/donation_model.php:145
+msgid "COUNTRIES"
+msgstr ""
+
+#: framework/modules/shortcodes/give_us_donation.php:13
+msgid "We Need Your Help"
+msgstr ""
+
+#: framework/resource/shortcode_output.php:10
+msgid "You do not have permission to edit posts."
+msgstr ""
+
+#: framework/resource/shortcode_output.php:30
+msgid "List of available Shortcodes"
+msgstr ""
+
+#: framework/resource/shortcode_output.php:62
+msgid "Available parameters"
+msgstr ""
+
+#: framework/resource/shortcode_output.php:91
+msgid "No parameters avaialble "
+msgstr ""
+
+#: framework/resource/shortcode_output.php:95
+msgid "Insert Shortcode"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:393
+#: framework/tgm/class-tgm-plugin-activation.php:912
+#: framework/tgm/class-tgm-plugin-activation.php:2618
+#: framework/tgm/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:394
+#: framework/tgm/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:395
+#: framework/tgm/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1019
+#: framework/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1206
+#: framework/tgm/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3594
+#: framework/tgm/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3594
+#: framework/tgm/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/init.php:47
+msgid "Envato Market Plugin"
+msgstr ""
+
+#: framework/tgm/init.php:57
+msgid "This plugin is need to update Lifeline theme."
+msgstr ""
+
+#: framework/tgm/init.php:62
+msgid "Visual Composer"
+msgstr ""
+
+#: framework/tgm/init.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/tgm/init.php:101
+msgid "WP Classic Editor for Old Post Editor"
+msgstr ""
+
+#: framework/vc_map.php:5
+msgid "Event Calender"
+msgstr ""
+
+#: framework/vc_map.php:13 framework/vc_map.php:29 framework/vc_map.php:65
+#: framework/vc_map.php:103 framework/vc_map.php:139 framework/vc_map.php:231
+#: framework/vc_map.php:375 framework/vc_map.php:447 framework/vc_map.php:505
+#: framework/vc_map.php:597 framework/vc_map.php:689 framework/vc_map.php:761
+#: framework/vc_map.php:855 framework/vc_map.php:945 framework/vc_map.php:1057
+#: framework/vc_map.php:1183 framework/vc_map.php:1275
+#: framework/vc_map.php:1369 framework/vc_map.php:1541
+#: framework/vc_map.php:1579 framework/vc_map.php:1654
+#: framework/vc_map.php:1746 framework/vc_map.php:1838
+#: framework/vc_map.php:1912 framework/vc_map.php:2004
+#: framework/vc_map.php:2150 framework/vc_map.php:2260
+#: framework/vc_map.php:2352 framework/vc_map.php:2408
+#: framework/vc_map.php:2500 framework/vc_map.php:2550
+#: framework/vc_map.php:2606 framework/vc_map.php:2740
+#: framework/vc_map.php:2780 framework/vc_map.php:2834
+#: framework/vc_map.php:2886 framework/vc_map.php:2940
+#: framework/vc_map.php:3104 framework/vc_map.php:3236
+#: framework/vc_map.php:3308 framework/vc_map.php:3398
+#: framework/vc_map.php:3434 framework/vc_map.php:3566
+#: framework/vc_map.php:3666 framework/vc_map.php:3734
+#: framework/vc_map.php:3772 framework/vc_map.php:3826
+#: framework/vc_map.php:3912 framework/vc_map.php:3988
+msgid "Deeds"
+msgstr ""
+
+#: framework/vc_map.php:21
+msgid "Fancy Services"
+msgstr ""
+
+#: framework/vc_map.php:41 framework/vc_map.php:77
+msgid "Select Service"
+msgstr ""
+
+#: framework/vc_map.php:47 framework/vc_map.php:83
+msgid "Select your service to display"
+msgstr ""
+
+#: framework/vc_map.php:57
+msgid "Simple Services"
+msgstr ""
+
+#: framework/vc_map.php:95
+msgid "Blog Post From Specific Category"
+msgstr ""
+
+#: framework/vc_map.php:115
+msgid "Choose category for Blog Post"
+msgstr ""
+
+#: framework/vc_map.php:121 framework/vc_map.php:175 framework/vc_map.php:3948
+msgid "Choose Category for the Blog Post you want to show."
+msgstr ""
+
+#: framework/vc_map.php:131
+msgid "Events Carousal"
+msgstr ""
+
+#: framework/vc_map.php:151 framework/vc_map.php:243 framework/vc_map.php:387
+#: framework/vc_map.php:517 framework/vc_map.php:609 framework/vc_map.php:867
+#: framework/vc_map.php:959 framework/vc_map.php:2164 framework/vc_map.php:2514
+#: framework/vc_map.php:3248 framework/vc_map.php:3320
+#: framework/vc_map.php:3446 framework/vc_map.php:3746
+#: framework/vc_map.php:3924
+msgid "Number"
+msgstr ""
+
+#: framework/vc_map.php:157 framework/vc_map.php:3930
+msgid "Enter number of posts"
+msgstr ""
+
+#: framework/vc_map.php:169 framework/vc_map.php:3942
+msgid "Choose category for Events"
+msgstr ""
+
+#: framework/vc_map.php:205 framework/vc_map.php:297 framework/vc_map.php:423
+#: framework/vc_map.php:571 framework/vc_map.php:663 framework/vc_map.php:921
+#: framework/vc_map.php:1013 framework/vc_map.php:1630
+#: framework/vc_map.php:1722 framework/vc_map.php:1814
+#: framework/vc_map.php:1980 framework/vc_map.php:2236
+#: framework/vc_map.php:2710 framework/vc_map.php:3282
+#: framework/vc_map.php:3372 framework/vc_map.php:3498
+#: framework/vc_map.php:3962
+msgid "Sorting Order"
+msgstr ""
+
+#: framework/vc_map.php:211 framework/vc_map.php:303 framework/vc_map.php:429
+#: framework/vc_map.php:577 framework/vc_map.php:669 framework/vc_map.php:927
+#: framework/vc_map.php:1019 framework/vc_map.php:1728
+#: framework/vc_map.php:1820 framework/vc_map.php:1986
+#: framework/vc_map.php:2716 framework/vc_map.php:3378
+#: framework/vc_map.php:3504
+msgid "Choose Sorting Order."
+msgstr ""
+
+#: framework/vc_map.php:223
+msgid "Our Blog Slider"
+msgstr ""
+
+#: framework/vc_map.php:249 framework/vc_map.php:523 framework/vc_map.php:615
+msgid "Enter number of Sermons"
+msgstr ""
+
+#: framework/vc_map.php:261 framework/vc_map.php:535
+msgid "Choose category for Sermons"
+msgstr ""
+
+#: framework/vc_map.php:267 framework/vc_map.php:541 framework/vc_map.php:633
+msgid "Choose Category for the Sermons you want to show."
+msgstr ""
+
+#: framework/vc_map.php:279 framework/vc_map.php:405 framework/vc_map.php:553
+#: framework/vc_map.php:645 framework/vc_map.php:903 framework/vc_map.php:995
+#: framework/vc_map.php:1704 framework/vc_map.php:1796
+#: framework/vc_map.php:1962 framework/vc_map.php:2674
+#: framework/vc_map.php:3354 framework/vc_map.php:3480
+msgid "Sort By"
+msgstr ""
+
+#: framework/vc_map.php:285 framework/vc_map.php:411 framework/vc_map.php:559
+#: framework/vc_map.php:651 framework/vc_map.php:909 framework/vc_map.php:1001
+#: framework/vc_map.php:1710 framework/vc_map.php:1802
+#: framework/vc_map.php:1968 framework/vc_map.php:2680
+#: framework/vc_map.php:3360 framework/vc_map.php:3486
+msgid "Choose Sorting by."
+msgstr ""
+
+#: framework/vc_map.php:315
+msgid "Read More Button"
+msgstr ""
+
+#: framework/vc_map.php:319 framework/vc_map.php:353 framework/vc_map.php:3520
+#: framework/vc_map.php:3890 framework/vc_map.php:4416
+#: framework/vc_map.php:4438 framework/vc_map.php:4466
+#: framework/vc_map.php:4494 framework/vc_map.php:4524
+#: framework/vc_map.php:4614
+msgid "True"
+msgstr ""
+
+#: framework/vc_map.php:319 framework/vc_map.php:353 framework/vc_map.php:3520
+#: framework/vc_map.php:3890 framework/vc_map.php:4416
+#: framework/vc_map.php:4438 framework/vc_map.php:4466
+#: framework/vc_map.php:4494 framework/vc_map.php:4524
+#: framework/vc_map.php:4614
+msgid "False"
+msgstr ""
+
+#: framework/vc_map.php:321
+msgid "Show Read More Button after description"
+msgstr ""
+
+#: framework/vc_map.php:333
+msgid "Content Limit"
+msgstr ""
+
+#: framework/vc_map.php:337
+msgid "Enter number of character for description limit"
+msgstr ""
+
+#: framework/vc_map.php:349
+msgid "Slider"
+msgstr ""
+
+#: framework/vc_map.php:355
+msgid "Enable this option to make posts slider"
+msgstr ""
+
+#: framework/vc_map.php:367
+msgid "Latest Sermons"
+msgstr ""
+
+#: framework/vc_map.php:393
+msgid "Enter number of Latest News"
+msgstr ""
+
+#: framework/vc_map.php:441
+msgid "Featured Sermons"
+msgstr ""
+
+#: framework/vc_map.php:461
+msgid "Choose Sermon"
+msgstr ""
+
+#: framework/vc_map.php:467
+msgid "Choose Sermon to display in this section."
+msgstr ""
+
+#: framework/vc_map.php:479
+msgid "Overlap or Not"
+msgstr ""
+
+#: framework/vc_map.php:485
+msgid "Chose Overlap or Not"
+msgstr ""
+
+#: framework/vc_map.php:497
+msgid "Latest News"
+msgstr ""
+
+#: framework/vc_map.php:589
+msgid "Our Team"
+msgstr ""
+
+#: framework/vc_map.php:627
+msgid "Choose category"
+msgstr ""
+
+#: framework/vc_map.php:681 framework/vc_map.php:2018 framework/vc_map.php:2564
+msgid "Heading"
+msgstr ""
+
+#: framework/vc_map.php:707 framework/vc_map.php:781
+msgid "Enter Title for This Section."
+msgstr ""
+
+#: framework/vc_map.php:719 framework/vc_map.php:2638
+msgid "Sub Title"
+msgstr ""
+
+#: framework/vc_map.php:725
+msgid "Enter Sub Title for This Section."
+msgstr ""
+
+#: framework/vc_map.php:737
+msgid "Heading Style"
+msgstr ""
+
+#: framework/vc_map.php:741
+msgid "Simple"
+msgstr ""
+
+#: framework/vc_map.php:741
+msgid "Underline"
+msgstr ""
+
+#: framework/vc_map.php:743
+msgid "Choose Heading Style."
+msgstr ""
+
+#: framework/vc_map.php:755
+msgid "Simple Donation"
+msgstr ""
+
+#: framework/vc_map.php:793
+msgid "Video Link"
+msgstr ""
+
+#: framework/vc_map.php:799
+msgid "Enter Video Link."
+msgstr ""
+
+#: framework/vc_map.php:811 framework/vc_map.php:2458 framework/vc_map.php:3534
+#: framework/vc_map.php:3870 framework/vc_map.php:4016
+msgid "Button Text"
+msgstr ""
+
+#: framework/vc_map.php:817
+msgid "Enter Text to show on Donate Button."
+msgstr ""
+
+#: framework/vc_map.php:835
+msgid "Enter Content to show in this Section."
+msgstr ""
+
+#: framework/vc_map.php:847
+msgid "Gallery - Masonary"
+msgstr ""
+
+#: framework/vc_map.php:873 framework/vc_map.php:965
+msgid "Enter number of Galleries"
+msgstr ""
+
+#: framework/vc_map.php:885 framework/vc_map.php:977 framework/vc_map.php:1031
+msgid "Columns"
+msgstr ""
+
+#: framework/vc_map.php:889 framework/vc_map.php:981
+msgid "4 Col"
+msgstr ""
+
+#: framework/vc_map.php:889 framework/vc_map.php:981
+msgid "3 Col"
+msgstr ""
+
+#: framework/vc_map.php:889 framework/vc_map.php:981
+msgid "2 Col"
+msgstr ""
+
+#: framework/vc_map.php:891 framework/vc_map.php:983
+msgid "Choose Gallery Column."
+msgstr ""
+
+#: framework/vc_map.php:939
+msgid "Gallery - Simple"
+msgstr ""
+
+#: framework/vc_map.php:1035 framework/vc_map.php:3804
+msgid "4 Column"
+msgstr ""
+
+#: framework/vc_map.php:1035 framework/vc_map.php:3804
+msgid "3 Column"
+msgstr ""
+
+#: framework/vc_map.php:1037
+msgid "Choose Number of Columns."
+msgstr ""
+
+#: framework/vc_map.php:1049
+msgid "Contact Information"
+msgstr ""
+
+#: framework/vc_map.php:1075
+msgid "Enter Title to show in this Section"
+msgstr ""
+
+#: framework/vc_map.php:1087 framework/vc_map.php:2274
+#: framework/vc_map.php:3132 framework/vc_map.php:3164
+msgid "Text"
+msgstr ""
+
+#: framework/vc_map.php:1093
+msgid "Enter Text to in this Section"
+msgstr ""
+
+#: framework/vc_map.php:1105
+msgid "Linked in"
+msgstr ""
+
+#: framework/vc_map.php:1111
+msgid "Enter LinkedIn Profile Link."
+msgstr ""
+
+#: framework/vc_map.php:1123
+msgid "Facebook"
+msgstr ""
+
+#: framework/vc_map.php:1129
+msgid "Enter Facebook URL."
+msgstr ""
+
+#: framework/vc_map.php:1141
+msgid "Twitter"
+msgstr ""
+
+#: framework/vc_map.php:1147
+msgid "Enter Twitter URL."
+msgstr ""
+
+#: framework/vc_map.php:1159
+msgid "Google Plus"
+msgstr ""
+
+#: framework/vc_map.php:1165
+msgid "Enter Google Plus URL."
+msgstr ""
+
+#: framework/vc_map.php:1177
+msgid "Contact Form"
+msgstr ""
+
+#: framework/vc_map.php:1203
+msgid "Enter the Title to Show on this Contact Form."
+msgstr ""
+
+#: framework/vc_map.php:1221
+msgid "Enter your email to receive emails"
+msgstr ""
+
+#: framework/vc_map.php:1233
+msgid "Site Key"
+msgstr ""
+
+#: framework/vc_map.php:1239
+msgid "Enter google captcha site key"
+msgstr ""
+
+#: framework/vc_map.php:1251
+msgid "Secret Key"
+msgstr ""
+
+#: framework/vc_map.php:1257
+msgid "Enter google captcha secret key"
+msgstr ""
+
+#: framework/vc_map.php:1269
+msgid "Contact Information Boxes"
+msgstr ""
+
+#: framework/vc_map.php:1295
+msgid "Enter Address."
+msgstr ""
+
+#: framework/vc_map.php:1307
+msgid "Phone"
+msgstr ""
+
+#: framework/vc_map.php:1313
+msgid "Enter Phone Number."
+msgstr ""
+
+#: framework/vc_map.php:1331
+msgid "Enter Email Address."
+msgstr ""
+
+#: framework/vc_map.php:1349
+msgid "Enter Website URL."
+msgstr ""
+
+#: framework/vc_map.php:1361
+msgid "Give Us Donation"
+msgstr ""
+
+#: framework/vc_map.php:1379
+msgid "Rotating Title"
+msgstr ""
+
+#: framework/vc_map.php:1383 framework/vc_map.php:1411
+msgid "enter the title"
+msgstr ""
+
+#: framework/vc_map.php:1397
+msgid "enter the main text"
+msgstr ""
+
+#: framework/vc_map.php:1463
+msgid "Show Links"
+msgstr ""
+
+#: framework/vc_map.php:1467
+msgid "Show or hide sign in / signup links"
+msgstr ""
+
+#: framework/vc_map.php:1469
+msgid "Signin / signup links"
+msgstr ""
+
+#: framework/vc_map.php:1477 framework/vc_map.php:1483
+#: framework/vc_map.php:1505
+msgid "Detail Link"
+msgstr ""
+
+#: framework/vc_map.php:1481
+msgid "Show or hide detail link"
+msgstr ""
+
+#: framework/vc_map.php:1491
+msgid "Donate Button Text"
+msgstr ""
+
+#: framework/vc_map.php:1495
+msgid "Enter Button Text for Donation Button"
+msgstr ""
+
+#: framework/vc_map.php:1509
+msgid "Enter Detail Link Button Text"
+msgstr ""
+
+#: framework/vc_map.php:1519
+msgid "Detail Link Anchor"
+msgstr ""
+
+#: framework/vc_map.php:1523
+msgid "Enter Detail Link Anchor"
+msgstr ""
+
+#: framework/vc_map.php:1535
+msgid "Audio Box"
+msgstr ""
+
+#: framework/vc_map.php:1555
+msgid "Sound Cloud Code"
+msgstr ""
+
+#: framework/vc_map.php:1561
+msgid "Enter the Sound Cloud audio Code like 561586 with comma seprated"
+msgstr ""
+
+#: framework/vc_map.php:1573
+msgid "Latest Events"
+msgstr ""
+
+#: framework/vc_map.php:1593
+msgid "Number of Events"
+msgstr ""
+
+#: framework/vc_map.php:1599
+msgid "Enter the number of Events"
+msgstr ""
+
+#: framework/vc_map.php:1611 framework/vc_map.php:1686
+#: framework/vc_map.php:1778 framework/vc_map.php:1944
+#: framework/vc_map.php:2200 framework/vc_map.php:2692
+#: framework/vc_map.php:3264 framework/vc_map.php:3336
+#: framework/vc_map.php:3462
+msgid "Category"
+msgstr ""
+
+#: framework/vc_map.php:1617 framework/vc_map.php:1692
+#: framework/vc_map.php:1784 framework/vc_map.php:1950
+#: framework/vc_map.php:2188 framework/vc_map.php:2206
+#: framework/vc_map.php:2698 framework/vc_map.php:3270
+#: framework/vc_map.php:3342 framework/vc_map.php:3468
+msgid "Choose Category."
+msgstr ""
+
+#: framework/vc_map.php:1636
+msgid "Choose Sorting Order Note: It will sort by event start date"
+msgstr ""
+
+#: framework/vc_map.php:1648
+msgid "Daily News Carousel"
+msgstr ""
+
+#: framework/vc_map.php:1668
+msgid "Number of News"
+msgstr ""
+
+#: framework/vc_map.php:1674
+msgid "Enter the number of News"
+msgstr ""
+
+#: framework/vc_map.php:1740
+msgid "Blog List Style"
+msgstr ""
+
+#: framework/vc_map.php:1760 framework/vc_map.php:1926
+msgid "Number of item"
+msgstr ""
+
+#: framework/vc_map.php:1766 framework/vc_map.php:1932
+msgid "Enter the number of item"
+msgstr ""
+
+#: framework/vc_map.php:1832
+msgid "About Us"
+msgstr ""
+
+#: framework/vc_map.php:1858
+msgid "Enter the title"
+msgstr ""
+
+#: framework/vc_map.php:1876
+msgid "Enter the description."
+msgstr ""
+
+#: framework/vc_map.php:1888
+msgid "Images"
+msgstr ""
+
+#: framework/vc_map.php:1894
+msgid "Select image."
+msgstr ""
+
+#: framework/vc_map.php:1906
+msgid "Church Stories"
+msgstr ""
+
+#: framework/vc_map.php:1998
+msgid "Upcoming Event With Video"
+msgstr ""
+
+#: framework/vc_map.php:2024
+msgid "Enter the heading of this event"
+msgstr ""
+
+#: framework/vc_map.php:2036 framework/vc_map.php:2582
+msgid "Sub Heading"
+msgstr ""
+
+#: framework/vc_map.php:2042
+msgid "Enter the sub heading of this event"
+msgstr ""
+
+#: framework/vc_map.php:2054
+msgid "Vimeo Vidoe Code"
+msgstr ""
+
+#: framework/vc_map.php:2060
+msgid "Enter the Vimeo vidoe code like 61350461"
+msgstr ""
+
+#: framework/vc_map.php:2072
+msgid "Event"
+msgstr ""
+
+#: framework/vc_map.php:2078
+msgid "select an event to show."
+msgstr ""
+
+#: framework/vc_map.php:2144
+msgid "Upcoming Event with Counter"
+msgstr ""
+
+#: framework/vc_map.php:2170
+msgid "Enter the number of showing events"
+msgstr ""
+
+#: framework/vc_map.php:2182
+msgid "Event Type"
+msgstr ""
+
+#: framework/vc_map.php:2242 framework/vc_map.php:3288
+#: framework/vc_map.php:3968
+msgid "Choose Sorting Order. Note: It will sort by event start date"
+msgstr ""
+
+#: framework/vc_map.php:2254
+msgid "Buttons"
+msgstr ""
+
+#: framework/vc_map.php:2280
+msgid "Enter the Button text:"
+msgstr ""
+
+#: framework/vc_map.php:2292 framework/vc_map.php:2476
+msgid "Button Link"
+msgstr ""
+
+#: framework/vc_map.php:2298 framework/vc_map.php:2482
+msgid "Enter the Button Link:"
+msgstr ""
+
+#: framework/vc_map.php:2310
+msgid "Button Style"
+msgstr ""
+
+#: framework/vc_map.php:2316 framework/vc_map.php:2334
+msgid "Select Button Style:"
+msgstr ""
+
+#: framework/vc_map.php:2328
+msgid "Button Inverse"
+msgstr ""
+
+#: framework/vc_map.php:2346
+msgid "Twitter Tweets"
+msgstr ""
+
+#: framework/vc_map.php:2366
+msgid "Twitter Username"
+msgstr ""
+
+#: framework/vc_map.php:2372
+msgid "Enter the Twitter Username:"
+msgstr ""
+
+#: framework/vc_map.php:2384
+msgid "Show Twittes"
+msgstr ""
+
+#: framework/vc_map.php:2390
+msgid "Enter the Twittes Number:"
+msgstr ""
+
+#: framework/vc_map.php:2402 framework/vc_map.php:2440
+msgid "Welcome Message"
+msgstr ""
+
+#: framework/vc_map.php:2422
+msgid "Welcome Title"
+msgstr ""
+
+#: framework/vc_map.php:2428
+msgid "Enter the Welcome Title:"
+msgstr ""
+
+#: framework/vc_map.php:2446
+msgid "Enter the welcome message."
+msgstr ""
+
+#: framework/vc_map.php:2464
+msgid "Enter the Button Text:"
+msgstr ""
+
+#: framework/vc_map.php:2494
+msgid "Pastors Message"
+msgstr ""
+
+#: framework/vc_map.php:2520
+msgid "Enter the number of show pastors messages:"
+msgstr ""
+
+#: framework/vc_map.php:2528
+msgid "Carousel"
+msgstr ""
+
+#: framework/vc_map.php:2532
+msgid "Check to disable carousel for pastors messages listing"
+msgstr ""
+
+#: framework/vc_map.php:2534
+msgid "Disable Carousel"
+msgstr ""
+
+#: framework/vc_map.php:2544
+msgid "Donation Box"
+msgstr ""
+
+#: framework/vc_map.php:2570
+msgid "Enter the heading of this section:"
+msgstr ""
+
+#: framework/vc_map.php:2588
+msgid "Enter the sub heading of this section:"
+msgstr ""
+
+#: framework/vc_map.php:2600
+msgid "Products Carousel"
+msgstr ""
+
+#: framework/vc_map.php:2626
+msgid "Enter Title for this Section."
+msgstr ""
+
+#: framework/vc_map.php:2644
+msgid "Enter sub title for this Section."
+msgstr ""
+
+#: framework/vc_map.php:2656
+msgid "Number of Products"
+msgstr ""
+
+#: framework/vc_map.php:2662
+msgid "Enter the number of products"
+msgstr ""
+
+#: framework/vc_map.php:2728
+msgid "Accordian Block"
+msgstr ""
+
+#: framework/vc_map.php:2752
+msgid "Desctiption"
+msgstr ""
+
+#: framework/vc_map.php:2768
+msgid "Accordian"
+msgstr ""
+
+#: framework/vc_map.php:2796
+msgid "Enter the title of the accordian"
+msgstr ""
+
+#: framework/vc_map.php:2814
+msgid "Enter the Content:"
+msgstr ""
+
+#: framework/vc_map.php:2826
+msgid "Blockqoute"
+msgstr ""
+
+#: framework/vc_map.php:2850
+msgid "Enter the Content for Blockquote"
+msgstr ""
+
+#: framework/vc_map.php:2862
+msgid "Blockqoute Background"
+msgstr ""
+
+#: framework/vc_map.php:2866
+msgid "Select image for blockqoute background."
+msgstr ""
+
+#: framework/vc_map.php:2878
+msgid "Newsletter"
+msgstr ""
+
+#: framework/vc_map.php:2898
+msgid "Social Median"
+msgstr ""
+
+#: framework/vc_map.php:2904
+msgid "Show the social media"
+msgstr ""
+
+#: framework/vc_map.php:2916
+msgid "Newsletter Link"
+msgstr ""
+
+#: framework/vc_map.php:2920
+msgid "Enter the feedburner link like 'sugotech/kyRW'"
+msgstr ""
+
+#: framework/vc_map.php:2932
+msgid "Ministry Tabs"
+msgstr ""
+
+#: framework/vc_map.php:2952
+msgid "Tab 1 Title"
+msgstr ""
+
+#: framework/vc_map.php:2958
+msgid "Enter the title of the tab 1"
+msgstr ""
+
+#: framework/vc_map.php:2970
+msgid "Select Category 1"
+msgstr ""
+
+#: framework/vc_map.php:2976
+msgid "Select 1st Tab Category"
+msgstr ""
+
+#: framework/vc_map.php:2988
+msgid "Tab 2 Title"
+msgstr ""
+
+#: framework/vc_map.php:2994
+msgid "Enter the title of the tab 2"
+msgstr ""
+
+#: framework/vc_map.php:3006
+msgid "Select Category 2"
+msgstr ""
+
+#: framework/vc_map.php:3012
+msgid "Select 2st Tab Category"
+msgstr ""
+
+#: framework/vc_map.php:3024
+msgid "Tab 3 Title"
+msgstr ""
+
+#: framework/vc_map.php:3030
+msgid "Enter the title of the tab 3"
+msgstr ""
+
+#: framework/vc_map.php:3042
+msgid "Select Category 3"
+msgstr ""
+
+#: framework/vc_map.php:3048
+msgid "Select 3st Tab Category"
+msgstr ""
+
+#: framework/vc_map.php:3060
+msgid "Tab 4 Title"
+msgstr ""
+
+#: framework/vc_map.php:3066
+msgid "Enter the title of the tab 4"
+msgstr ""
+
+#: framework/vc_map.php:3078
+msgid "Select Category 4"
+msgstr ""
+
+#: framework/vc_map.php:3084
+msgid "Select 4st Tab Category"
+msgstr ""
+
+#: framework/vc_map.php:3096
+msgid "Church"
+msgstr ""
+
+#: framework/vc_map.php:3116
+msgid "Church Title"
+msgstr ""
+
+#: framework/vc_map.php:3120
+msgid "Enter the title for find church section:"
+msgstr ""
+
+#: framework/vc_map.php:3136
+msgid "Enter the Text for find church section:"
+msgstr ""
+
+#: framework/vc_map.php:3148
+msgid "Prayer Title"
+msgstr ""
+
+#: framework/vc_map.php:3152
+msgid "Enter the title for request your prayer section:"
+msgstr ""
+
+#: framework/vc_map.php:3168
+msgid "Enter the Text for request your prayer section:"
+msgstr ""
+
+#: framework/vc_map.php:3180
+msgid "Meet Me Title"
+msgstr ""
+
+#: framework/vc_map.php:3184
+msgid "Enter the title for meet me section:"
+msgstr ""
+
+#: framework/vc_map.php:3196
+msgid "Meet Me Text"
+msgstr ""
+
+#: framework/vc_map.php:3200
+msgid "Enter the text for meet me section:"
+msgstr ""
+
+#: framework/vc_map.php:3216
+msgid "Enter the Email:"
+msgstr ""
+
+#: framework/vc_map.php:3228
+msgid "Carousel for Events"
+msgstr ""
+
+#: framework/vc_map.php:3252 framework/vc_map.php:3324
+#: framework/vc_map.php:3450
+msgid "Enter the number of show posts:"
+msgstr ""
+
+#: framework/vc_map.php:3300
+msgid "Carousel for Church Story"
+msgstr ""
+
+#: framework/vc_map.php:3390
+msgid "Survey Box"
+msgstr ""
+
+#: framework/vc_map.php:3410
+msgid "Survey Box Ttitle"
+msgstr ""
+
+#: framework/vc_map.php:3414
+msgid "Enter the survey box ttitle:"
+msgstr ""
+
+#: framework/vc_map.php:3426
+msgid "Blog Masonary"
+msgstr ""
+
+#: framework/vc_map.php:3516
+msgid "Button"
+msgstr ""
+
+#: framework/vc_map.php:3522
+msgid "hide/show watch more blog post button"
+msgstr ""
+
+#: framework/vc_map.php:3538
+msgid "Enter text for blog show more posts button:"
+msgstr ""
+
+#: framework/vc_map.php:3558
+msgid "Our Deals"
+msgstr ""
+
+#: framework/vc_map.php:3578
+msgid "Ttitle"
+msgstr ""
+
+#: framework/vc_map.php:3582
+msgid "Enter the title for this section:"
+msgstr ""
+
+#: framework/vc_map.php:3598
+msgid "Enter the Description for this section:"
+msgstr ""
+
+#: framework/vc_map.php:3610
+msgid "Button Title"
+msgstr ""
+
+#: framework/vc_map.php:3614
+msgid "Enter the button title for this section:"
+msgstr ""
+
+#: framework/vc_map.php:3626
+msgid "Left Deal Image"
+msgstr ""
+
+#: framework/vc_map.php:3630 framework/vc_map.php:3646
+msgid "Upload or select the image"
+msgstr ""
+
+#: framework/vc_map.php:3642
+msgid "Right Deal Image"
+msgstr ""
+
+#: framework/vc_map.php:3658
+msgid "Product On Sale"
+msgstr ""
+
+#: framework/vc_map.php:3678
+msgid "Popular Post"
+msgstr ""
+
+#: framework/vc_map.php:3682
+msgid "Enter the Number for the popular post:"
+msgstr ""
+
+#: framework/vc_map.php:3694
+msgid "Recent Post"
+msgstr ""
+
+#: framework/vc_map.php:3698
+msgid "Enter the Number for the Recent post:"
+msgstr ""
+
+#: framework/vc_map.php:3710
+msgid "Featured Post"
+msgstr ""
+
+#: framework/vc_map.php:3714
+msgid "Enter the Number for the Featured post:"
+msgstr ""
+
+#: framework/vc_map.php:3726
+msgid "Partners"
+msgstr ""
+
+#: framework/vc_map.php:3752
+msgid "Enter the Number for this section:"
+msgstr ""
+
+#: framework/vc_map.php:3764
+msgid "iconic Services"
+msgstr ""
+
+#: framework/vc_map.php:3788
+msgid "Enter Number of Services. Note: (firstly make services in theme option)"
+msgstr ""
+
+#: framework/vc_map.php:3800
+msgid "Select Columns"
+msgstr ""
+
+#: framework/vc_map.php:3804
+msgid "2 Column"
+msgstr ""
+
+#: framework/vc_map.php:3806
+msgid "Select Services column"
+msgstr ""
+
+#: framework/vc_map.php:3818
+msgid "iconic Donation Box"
+msgstr ""
+
+#: framework/vc_map.php:3838 framework/vc_map.php:4000
+msgid "Enter Title"
+msgstr ""
+
+#: framework/vc_map.php:3842 framework/vc_map.php:4004
+msgid "Enter the title for this section"
+msgstr ""
+
+#: framework/vc_map.php:3854
+msgid "Country Number"
+msgstr ""
+
+#: framework/vc_map.php:3858
+msgid "Enter the number of the country."
+msgstr ""
+
+#: framework/vc_map.php:3874 framework/vc_map.php:4020
+msgid "Enter the text of donation button"
+msgstr ""
+
+#: framework/vc_map.php:3886
+msgid "Overlap"
+msgstr ""
+
+#: framework/vc_map.php:3892
+msgid "Select this option to make this box Overlap."
+msgstr ""
+
+#: framework/vc_map.php:3904
+msgid "Event Carousel With Date"
+msgstr ""
+
+#: framework/vc_map.php:3980
+msgid "Donation Bar"
+msgstr ""
+
+#: framework/vc_map.php:4050
+msgid "Please select"
+msgstr ""
+
+#: framework/vc_map.php:4412
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: framework/vc_map.php:4418
+msgid "Show miscellaneous settings for this section."
+msgstr ""
+
+#: framework/vc_map.php:4420 framework/vc_map.php:4442
+#: framework/vc_map.php:4470 framework/vc_map.php:4498
+msgid "Miscellaneous"
+msgstr ""
+
+#: framework/vc_map.php:4434
+msgid "Remove Gape"
+msgstr ""
+
+#: framework/vc_map.php:4440
+msgid "Remove the Gap from top of the Section."
+msgstr ""
+
+#: framework/vc_map.php:4462
+msgid "No Padding"
+msgstr ""
+
+#: framework/vc_map.php:4468
+msgid "Remove the Padding from top and bottom of the Section."
+msgstr ""
+
+#: framework/vc_map.php:4490
+msgid "Gray Section"
+msgstr ""
+
+#: framework/vc_map.php:4496
+msgid "Make this section Gray."
+msgstr ""
+
+#: framework/vc_map.php:4520 framework/vc_map.php:4528
+#: framework/vc_map.php:4562 framework/vc_map.php:4588
+msgid "Parallax"
+msgstr ""
+
+#: framework/vc_map.php:4526 framework/vc_map.php:4586
+msgid "Make this section as parallax."
+msgstr ""
+
+#: framework/vc_map.php:4542
+msgid "Parallax Style"
+msgstr ""
+
+#: framework/vc_map.php:4550
+msgid "No Layer"
+msgstr ""
+
+#: framework/vc_map.php:4552
+msgid "Whitish"
+msgstr ""
+
+#: framework/vc_map.php:4554
+msgid "Coloured"
+msgstr ""
+
+#: framework/vc_map.php:4556
+msgid "Blackish"
+msgstr ""
+
+#: framework/vc_map.php:4560
+msgid "Chose Style for Parallax."
+msgstr ""
+
+#: framework/vc_map.php:4582
+msgid "Parallax Background"
+msgstr ""
+
+#: framework/vc_map.php:4610
+msgid "Show title"
+msgstr ""
+
+#: framework/vc_map.php:4616
+msgid "If Shwo title then slect true."
+msgstr ""
+
+#: framework/vc_map.php:4618 framework/vc_map.php:4636
+#: framework/vc_map.php:4662 framework/vc_map.php:4706
+msgid "Title Settings"
+msgstr ""
+
+#: framework/vc_map.php:4630
+msgid "Enter the Title"
+msgstr ""
+
+#: framework/vc_map.php:4634
+msgid "Enter the title of this section."
+msgstr ""
+
+#: framework/vc_map.php:4656
+msgid "Enter the Sub Title"
+msgstr ""
+
+#: framework/vc_map.php:4660
+msgid "Enter the sub title of this section."
+msgstr ""
+
+#: framework/vc_map.php:4680
+msgid "Select the heading style"
+msgstr ""
+
+#: framework/vc_map.php:4688
+msgid "Heading Style 1"
+msgstr ""
+
+#: framework/vc_map.php:4690
+msgid "Heading Style 2"
+msgstr ""
+
+#: framework/vc_map.php:4692
+msgid "Heading Style 3"
+msgstr ""
+
+#: framework/vc_map.php:4694
+msgid "Heading Style 4"
+msgstr ""
+
+#: framework/vc_map.php:4696
+msgid "Heading Style 5"
+msgstr ""
+
+#: framework/vc_map.php:4698
+msgid "Heading Style 6"
+msgstr ""
+
+#: framework/vc_map.php:4700
+msgid "Heading Style 7"
+msgstr ""
+
+#: framework/vc_map.php:4704
+msgid "Select the heading style for this section."
+msgstr ""
+
+#: functions.php:83
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Responsive Menu"
+msgstr ""
+
+#: functions.php:110
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:112 functions.php:134
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: functions.php:121
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: functions.php:132
+msgid "Blog Listing"
+msgstr ""
+
+#: functions.php:199
+msgid "&gt;"
+msgstr ""
+
+#: functions.php:199
+msgid "&lt;"
+msgstr ""
+
+#: functions.php:277 functions.php:279 functions.php:281 functions.php:283
+msgid "Archive for "
+msgstr ""
+
+#: functions.php:285
+msgid "Search Results for "
+msgstr ""
+
+#: functions.php:287
+msgid "404 - Not Found"
+msgstr ""
+
+#: functions.php:417
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:492 functions.php:495
+msgid "I like this article"
+msgstr ""
+
+#: functions.php:497
+msgid " Likes"
+msgstr ""
+
+#: functions.php:519
+msgid "No Comments"
+msgstr ""
+
+#: functions.php:521
+msgid " Comments"
+msgstr ""
+
+#: functions.php:523
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:527
+msgid "Comments are off for this post."
+msgstr ""
+
+#: functions.php:578
+msgid "Upload Language File"
+msgstr ""
+
+#: functions.php:581
+msgid "Type allowed: .mo. | Maximum Size 5 MB"
+msgstr ""
+
+#: functions.php:791
+msgid "COLLECTED DONATIONS"
+msgstr ""
+
+#: functions.php:811
+msgid "I would like to make a donation in the amount of"
+msgstr ""
+
+#: functions.php:828
+msgid "PAYPAL"
+msgstr ""
+
+#: functions.php:829
+msgid "STRIPE"
+msgstr ""
+
+#: functions.php:830
+msgid "PayStack"
+msgstr ""
+
+#: functions.php:831
+msgid "2CHECKOUT"
+msgstr ""
+
+#: functions.php:832
+msgid "BRAINTREE"
+msgstr ""
+
+#: functions.php:837
+msgid "Doner Info"
+msgstr ""
+
+#: functions.php:852
+msgid "PayPal Info"
+msgstr ""
+
+#: functions.php:872
+msgid "Stripe Info"
+msgstr ""
+
+#: functions.php:877 functions.php:940 functions.php:972 functions.php:1034
+msgid "Enter Amount Please"
+msgstr ""
+
+#: functions.php:882 functions.php:977 functions.php:1039
+msgid "Card Number:"
+msgstr ""
+
+#: functions.php:887 functions.php:982 functions.php:1044
+msgid "Verification Number"
+msgstr ""
+
+#: functions.php:934
+msgid "PayStack Info"
+msgstr ""
+
+#: functions.php:967
+msgid "2Checkout Info"
+msgstr ""
+
+#: functions.php:1029
+msgid "Braintree Info"
+msgstr ""
+
+#: functions.php:1204 functions.php:1240
+msgid "Instant"
+msgstr ""
+
+#: functions.php:1287
+msgid "Braintree"
+msgstr ""
+
+#: functions.php:1298
+#, php-format
+msgid "Error processing transaction: code %s and text %s"
+msgstr ""
+
+#: functions.php:1300
+msgid "Validation errors:"
+msgstr ""
+
+#: functions.php:1363
+msgid "2Checkout"
+msgstr ""
+
+#: functions.php:1488
+msgid "Upload Font File"
+msgstr ""
+
+#: functions.php:1491
+msgid "Type allowed: otf, eot, ttf, woff. | Maximum Size 5 MB"
+msgstr ""
+
+#: header.php:139
+msgid "items in the shopping cart"
+msgstr ""
+
+#: header.php:143
+msgid "VIEW CART"
+msgstr ""
+
+#: header.php:144
+msgid "CHECKOUT"
+msgstr ""
+
+#: header.php:160 header.php:326
+msgid "logo"
+msgstr ""
+
+#: header.php:275
+msgid "Enter Your Search Keyword"
+msgstr ""
+
+#: header.php:309
+msgid "items"
+msgstr ""
+
+#: index.php:133
+msgid "Blog"
+msgstr ""
+
+#: loop-shop.php:38
+msgid "No products found which match your selection."
+msgstr ""
+
+#: search.php:69
+msgid "Search Result Found For:"
+msgstr ""
+
+#: search.php:153
+msgid "Enter your keyword to found more"
+msgstr ""
+
+#: search.php:191
+msgid "Search Result Found For: "
+msgstr ""
+
+#: search.php:197
+msgid "No results found. Please adjust your search term and try again."
+msgstr ""
+
+#: single-cs_church.php:67 single-cs_events.php:73 single-cs_ministry.php:66
+#: single.php:226
+msgid "Posted In "
+msgstr ""
+
+#: single-cs_events.php:147
+msgid "SHARE THIS EVENT"
+msgstr ""
+
+#: single-cs_sermons.php:242
+msgid "SHARE THIS SERMON"
+msgstr ""
+
+#: single-cs_team.php:149
+msgid "QUALIFICATION"
+msgstr ""
+
+#: single-download.php:58
+msgid "Item Details"
+msgstr ""
+
+#: single-download.php:61
+msgid "Current version: "
+msgstr ""
+
+#: single-download.php:65
+msgid "Last Update: "
+msgstr ""
+
+#: single-download.php:69
+msgid "Release Date: "
+msgstr ""
+
+#: single-download.php:73
+msgid "Author: "
+msgstr ""
+
+#: single-download.php:77
+msgid "Requirements: "
+msgstr ""
+
+#: single-download.php:107
+msgid "LIVE DEMO"
+msgstr ""
+
+#: single-download.php:115
+msgid "BUY NOW"
+msgstr ""
+
+#: single-product-reviews.php:21 woocommerce/single-product-reviews.php:29
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single-product-reviews.php:23 woocommerce/single-product-reviews.php:34
+#: woocommerce/single-product-reviews.php:38
+msgid "Reviews"
+msgstr ""
+
+#: single-product-reviews.php:46
+msgid "There are no reviews yet."
+msgstr ""
+
+#: single-product-reviews.php:59 woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr ""
+
+#: single-product-reviews.php:59 woocommerce/single-product-reviews.php:66
+msgid "Be the first to review"
+msgstr ""
+
+#: single-product-reviews.php:75
+msgid "Your Rating"
+msgstr ""
+
+#: single-product-reviews.php:76 woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr ""
+
+#: single-product-reviews.php:77 woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr ""
+
+#: single-product-reviews.php:79 woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr ""
+
+#: single-product-reviews.php:80 woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr ""
+
+#: single-product-reviews.php:81 woocommerce/single-product-reviews.php:99
+msgid "Very Poor"
+msgstr ""
+
+#: single-product-reviews.php:85 woocommerce/single-product-reviews.php:103
+msgid "Your Review"
+msgstr ""
+
+#: single-product-reviews.php:94
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: single.php:284
+msgid "SHARE THIS"
+msgstr ""
+
+#: taxonomy-church_category.php:41 taxonomy-events_category.php:47
+#: taxonomy-ministry_category.php:41 taxonomy-team_category.php:41
+msgid "Archive"
+msgstr ""
+
+#: taxonomy-download_category.php:17
+msgid "Products Archives for "
+msgstr ""
+
+#: taxonomy-download_category.php:52 taxonomy-download_tag.php:52
+msgid "View item"
+msgstr ""
+
+#: taxonomy-download_category.php:53 taxonomy-download_tag.php:53
+msgid "Buy now"
+msgstr ""
+
+#: taxonomy-download_tag.php:17
+msgid "Products Tag Archives for "
+msgstr ""
+
+#: tpl-wishlist.php:71
+msgid "Image"
+msgstr ""
+
+#: tpl-wishlist.php:75
+msgid "Direct Link"
+msgstr ""
+
+#: tpl-wishlist.php:95
+msgid "View"
+msgstr ""
+
+#: tpl-wishlist.php:119
+#, php-format
+msgid ""
+"To view this page sign in at <a href=\"%s\" title=\"Account Page\">Account "
+"Page</a>"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:15
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:18
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+msgid ""
+"No shipping methods were found; please recalculate your shipping or continue "
+"to checkout and enter your full address to see if there is shipping "
+"available to your location."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+#: woocommerce/cart/shipping-methods.php:68
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:73 woocommerce/cart/cart-shipping.php:82
+#, php-format
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:73 woocommerce/cart/cart-shipping.php:82
+#: woocommerce/cart/shipping-methods.php:74 woocommerce/cart/totals.php:140
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:99 woocommerce/cart/totals.php:44
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21 woocommerce/cart/totals.php:26
+#: woocommerce/checkout/review-order.php:24
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:76 woocommerce/cart/totals.php:90
+#: woocommerce/checkout/review-order.php:85
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:85 woocommerce/cart/totals.php:117
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:50
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111 woocommerce/checkout/form-coupon.php:27
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:111 woocommerce/checkout/form-coupon.php:33
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:117
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:50
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:58
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:63
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:64
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "CALCULATE SHIPPING"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:29
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:46
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:60
+msgid "State / country"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:51
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:68
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:81
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:32
+msgid "Free"
+msgstr ""
+
+#: woocommerce/cart/shipping-methods.php:74 woocommerce/cart/totals.php:140
+#, php-format
+msgid ""
+"Sorry, it seems that there are no available shipping methods for your "
+"location (%s)."
+msgstr ""
+
+#: woocommerce/cart/totals.php:33
+msgid "Cart Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:33 woocommerce/cart/totals.php:81
+msgid "[Remove]"
+msgstr ""
+
+#: woocommerce/cart/totals.php:81
+msgid "Order Discount"
+msgstr ""
+
+#: woocommerce/cart/totals.php:103
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: woocommerce/cart/totals.php:119
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated %s and will be updated during "
+"checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/totals.php:130
+msgid ""
+"No shipping methods were found; please recalculate your shipping and enter "
+"your state/country and zip/postcode to ensure there are no other available "
+"methods for your location."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:29
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:37
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:18
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:50
+msgid "CLICK HERE TO SIGN UP"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:57
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:68
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:19
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:39
+#: woocommerce/checkout/review-order.php:18
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:41
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:43
+msgid "Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:111
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:161
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:179
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:15
+#: woocommerce/checkout/form-shipping.php:31
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:13
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:19
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:122
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:161
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:163
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:171
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:171
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:190
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:200
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:200
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:62 woocommerce/shop/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:86 woocommerce/global/breadcrumb.php:170
+#: woocommerce/shop/breadcrumb.php:87 woocommerce/shop/breadcrumb.php:171
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:133 woocommerce/shop/breadcrumb.php:134
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:173 woocommerce/shop/breadcrumb.php:174
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:177 woocommerce/shop/breadcrumb.php:178
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:181 woocommerce/shop/breadcrumb.php:182
+msgid "Page"
+msgstr ""
+
+#: woocommerce/global/form-login.php:23 woocommerce/shop/form-login.php:21
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:46 woocommerce/shop/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:12
+#: woocommerce/single-product/add-to-cart/quantity.php:23
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:21
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:23
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:17
+#: woocommerce/single-product/sale-flash.php:17
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/shop/form-login.php:34
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:27
+#: woocommerce/single-product/rating.php:24
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:27
+#: woocommerce/single-product/rating.php:26
+#: woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Rating"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:55
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:149
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:209
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "n/a"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:27
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:34
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:37
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:36
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review-rating.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:41
+msgid "You may also like&hellip;"
+msgstr ""

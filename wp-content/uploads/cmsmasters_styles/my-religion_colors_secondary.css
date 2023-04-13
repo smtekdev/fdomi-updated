@@ -1,0 +1,960 @@
+/**
+ * @package 	WordPress
+ * @subpackage 	My Religion
+ * @version 	1.2.0
+ * 
+ * Theme Secondary Color Schemes Rules
+ * Created by CMSMasters
+ * 
+ */
+
+
+/***************** Start Header Middle Color Scheme Rules ******************/
+
+	/* Start Header Middle Content Color */
+	.header_mid,
+	.header_mid input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]),
+	.header_mid textarea,
+	.header_mid select,
+	.header_mid option {
+		color:#ffffff;
+	}
+	/* Finish Header Middle Content Color */
+	
+	
+	/* Start Header Middle Primary Color */
+	.cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button,
+	.cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button, 
+	.header_mid .search_wrap .search_bar_wrap .search_button button:before,
+	.header_mid a, 
+	.header_mid .cmsmasters_button:hover, 
+	.header_mid .button:hover, 
+	.header_mid input[type=submit]:hover, 
+	.header_mid input[type=button]:hover, 
+	.header_mid button:hover {
+		color:#ffffff;
+	}
+	
+	.header_mid .resp_mid_nav_wrap .responsive_nav:before,
+	.header_mid .resp_mid_nav_wrap .responsive_nav:after,
+	.header_mid .resp_mid_nav_wrap .responsive_nav span,
+	.header_mid .cmsmasters_button, 
+	.header_mid .button, 
+	.header_mid input[type=submit], 
+	.header_mid input[type=button], 
+	.header_mid button {
+		background-color:#ffffff;
+	}
+	
+	.header_mid .cmsmasters_button, 
+	.header_mid .button, 
+	.header_mid input[type=submit], 
+	.header_mid input[type=button], 
+	.header_mid button {
+		border-color:#ffffff;
+	}
+	/* Finish Header Middle Primary Color */
+	
+	
+	/* Start Header Middle Rollover Color */
+	.header_mid .search_wrap .search_bar_wrap .search_button button:hover:before, 
+	.header_mid a:hover, 
+	.cmsmasters_dynamic_cart .cmsmasters_dynamic_cart_button:hover, 
+	.cmsmasters_dynamic_cart:hover .cmsmasters_dynamic_cart_button {
+		color:rgba(255,255,255,0.5);
+	}
+	
+	.header_mid .cmsmasters_button:hover, 
+	.header_mid .button:hover, 
+	.header_mid input[type=submit]:hover, 
+	.header_mid input[type=button]:hover,   
+	.header_mid button:hover {
+		background-color:rgba(255,255,255,0.5);
+	}
+	
+	.header_mid .cmsmasters_button:hover, 
+	.header_mid .button:hover, 
+	.header_mid input[type=submit]:hover, 
+	.header_mid input[type=button]:hover,   
+	.header_mid button:hover, 
+	.header_mid input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):focus,
+	.header_mid textarea:focus,
+	.header_mid select:focus {
+		border-color:rgba(255,255,255,0.5);
+	}
+	/* Finish Header Middle Rollover Color */
+	
+	
+	/* Start Header Middle Background Color */
+	.header_mid,
+	.header_mid input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]),
+	.header_mid textarea,
+	.header_mid select,
+	.header_mid option {
+		background-color:rgba(49,51,59,0.15);
+	}
+	/* Finish Header Middle Background Color */
+	
+	
+	/* Start Header Middle Background Color on Scroll */
+	.header_mid .cmsmasters_button, 
+	.header_mid .button, 
+	.header_mid input[type=submit], 
+	.header_mid input[type=button], 
+	.header_mid button {
+		color:#31333b;
+	}
+	
+	.header_mid.header_mid_scroll {
+		background-color:#31333b;
+	}
+	
+	@media only screen and (max-width: 1024px) {
+		#header .header_top,
+		.header_mid {
+			background-color:#31333b;
+		}
+	}
+	/* Finish Header Middle Background Color on Scroll */
+	
+	
+	/* Start Header Middle Borders Color */
+	
+	.cmsmasters_dynamic_cart .widget_shopping_cart_content .buttons .button,
+	.header_mid_outer,
+	.header_mid input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]),
+	.header_mid textarea,
+	.header_mid select,
+	.header_mid option {
+		border-color:rgba(255,255,255,0.2);
+	}
+	
+	@media only screen and (max-width: 1024px) {
+		#header nav li {
+			border-color:rgba(255,255,255,0.2);
+		}
+	}
+	/* Finish Header Middle Borders Color */
+	
+	
+	/* Start Header Middle Custom Rules */
+	.header_mid ::selection {
+		background:#ffffff;
+		color:rgba(49,51,59,0.15);
+	}
+	
+	.header_mid ::-moz-selection {
+		background:#ffffff;
+		color:rgba(49,51,59,0.15);
+	}
+	/* Finish Header Middle Custom Rules */
+
+/***************** Finish Header Middle Color Scheme Rules ******************/
+
+
+
+/***************** Start Header Bottom Color Scheme Rules ******************/
+
+	/* Start Header Bottom Content Color */
+	.header_bot,
+	.header_bot input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]),
+	.header_bot textarea,
+	.header_bot select,
+	.header_bot option {
+		color:#ffffff;
+	}
+	/* Finish Header Bottom Content Color */
+	
+	
+	/* Start Header Bottom Primary Color */
+	.header_bot a {
+		color:#ffffff;
+	}
+	
+	.header_bot .button:hover, 
+	.header_bot input[type=submit]:hover, 
+	.header_bot input[type=button]:hover, 
+	.header_bot button:hover, 
+	.header_bot .search_wrap .search_bar_wrap .search_button button:hover, 
+	.header_bot .search_wrap.search_opened .search_bar_wrap .search_button button {
+		background-color:#ffffff;
+	}
+	/* Finish Header Bottom Primary Color */
+	
+	
+	/* Start Header Bottom Rollover Color */
+	.header_bot a:hover {
+		color:#ffffff;
+	}
+	
+	.header_bot .button, 
+	.header_bot input[type=submit], 
+	.header_bot input[type=button], 
+	.header_bot button,
+	.header_bot .search_wrap .search_bar_wrap .search_button button {
+		background-color:#ffffff;
+	}
+	
+	.header_bot input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]):focus,
+	.header_bot textarea:focus,
+	.header_bot select:focus {
+		border-color:#ffffff;
+	}
+	/* Finish Header Bottom Rollover Color */
+	
+	
+	/* Start Header Bottom Background Color */
+	.header_bot .button, 
+	.header_bot input[type=submit], 
+	.header_bot input[type=button], 
+	.header_bot button, 
+	.header_bot .search_wrap .search_bar_wrap .search_button button {
+		color:rgba(49,51,59,0.15);
+	}
+	
+	.header_bot,
+	.header_bot input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]),
+	.header_bot textarea,
+	.header_bot select,
+	.header_bot option {
+		background-color:rgba(49,51,59,0.15);
+	}
+	/* Finish Header Bottom Background Color */
+	
+	
+	/* Start Header Bottom Background Color on Scroll */
+	.header_bot.header_bot_scroll {
+		background-color:#31333b;
+	}
+	
+	@media only screen and (max-width: 1024px) {
+		.header_bot {
+			background-color:#31333b;
+		}
+	}
+	/* Finish Header Bottom Background Color on Scroll */
+	
+	
+	/* Start Header Bottom Borders Color */
+	.header_bot .header_bot_outer,
+	.header_bot input:not([type=submit]):not([type=button]):not([type=radio]):not([type=checkbox]),
+	.header_bot textarea,
+	.header_bot select,
+	.header_bot option {
+		border-color:rgba(255,255,255,0.2);
+	}
+	/* Finish Header Bottom Borders Color */
+	
+	
+	/* Start Header Bottom Custom Rules */
+	.header_bot ::selection {
+		background:#ffffff;
+		color:rgba(49,51,59,0.15);
+	}
+	
+	.header_bot ::-moz-selection {
+		background:#ffffff;
+		color:rgba(49,51,59,0.15);
+	}
+	/* Finish Header Bottom Custom Rules */
+
+/***************** Finish Header Bottom Color Scheme Rules ******************/
+
+
+
+/***************** Start Navigation Color Scheme Rules ******************/
+
+	/* Start Navigation Title Link Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li > a {
+			color:#ffffff;
+		}
+	}
+	/* Finish Navigation Title Link Color */
+	
+	
+	/* Start Navigation Title Link Hover Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li.menu-item.current-menu-ancestor:hover > a,
+		ul.navigation > li.menu-item.current-menu-item > a:hover, 
+		ul.navigation > li > a:hover,
+		ul.navigation > li > a:hover .nav_subtitle,
+		ul.navigation > li:hover > a,
+		ul.navigation > li:hover > a .nav_subtitle {
+			color:rgba(255,255,255,0.5);
+		}
+	}
+	/* Finish Navigation Title Link Hover Color */
+	
+	
+	/* Start Navigation Title Link Current Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li.menu-item.current-menu-item > a, 
+		ul.navigation > li.menu-item.current-menu-item > a .nav_subtitle, 
+		ul.navigation > li.menu-item.current-menu-ancestor > a, 
+		ul.navigation > li.menu-item.current-menu-ancestor > a .nav_subtitle, 
+		ul.navigation > li > a .nav_tag {
+			color:#ffffff;
+		}
+	}
+	/* Finish Navigation Title Link Current Color */
+	
+	
+	/* Start Navigation Title Link Subtitle Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li > a .nav_subtitle {
+			color:rgba(255,255,255,0.3);
+		}
+		
+		ul.navigation > li > a .nav_tag {
+			background-color:rgba(255,255,255,0.3);
+		}
+		
+		ul.navigation > li > a .nav_tag:before {
+			border-color:rgba(255,255,255,0.3);
+		}
+	}
+	/* Finish Navigation Title Link Subtitle Color */
+	
+	
+	/* Start Navigation Title Link Background Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li > a {
+			background-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Navigation Title Link Background Color */
+	
+	
+	/* Start Navigation Title Link Hover Background Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li > a:hover,
+		ul.navigation > li:hover > a {
+			background-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Navigation Title Link Hover Background Color */
+	
+	
+	/* Start Navigation Title Link Current Background Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li.menu-item.current-menu-item > a, 
+		ul.navigation > li.menu-item.current-menu-ancestor > a {
+			background-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Navigation Title Link Current Background Color */
+	
+	
+	/* Start Navigation Title Link Border Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation > li:before {
+			background-color:rgba(255,255,255,0.4);
+		}
+	}
+	/* Finish Navigation Title Link Border Color */
+	
+	
+	/* Start Navigation Dropdown Text Color */
+	.navigation li .menu-item-mega-description-container, 
+	.navigation li .menu-item-mega-description-container * {
+		color:#717275;
+	}
+	/* Finish Navigation Dropdown Tex Color */
+	
+	
+	/* Start Navigation Dropdown Background Color */
+	@media only screen and (max-width: 1024px) {
+		ul.navigation {
+			background-color:#31333b;
+		}
+	}
+	
+	@media only screen and (min-width: 1025px) {
+		ul.navigation ul, 
+		ul.navigation .menu-item-mega-container {
+			background-color:#31333b;
+		}
+	}
+	
+	.cmsmasters_added_product_info,
+	.cmsmasters_dynamic_cart .widget_shopping_cart_content {
+		background-color:#31333b;
+	}
+	
+	.cmsmasters_dynamic_cart .widget_shopping_cart_content:before {
+		border-bottom-color:#31333b;
+	}
+	/* Finish Navigation Dropdown Background Color */
+	
+	
+	/* Start Navigation Dropdown Border Color */
+	@media only screen and (min-width: 1025px) {
+		ul.navigation ul, 
+		ul.navigation .menu-item-mega-container {
+			border-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Navigation Dropdown Border Color */
+	
+	
+	/* Start Navigation Dropdown Link Color */
+	#page .cmsmasters_dynamic_cart .remove:hover,
+	.navigation li a {
+		color:#8a8a8e;
+	}
+	
+	@media only screen and (max-width: 1024px) {
+		#header .navigation .menu-item-mega-container > ul > li > a .nav_title {
+			color:#8a8a8e;
+		}
+	}
+	/* Finish Navigation Dropdown Link Color */
+	
+	
+	/* Start Navigation Dropdown Link Hover Color */
+	#page .cmsmasters_dynamic_cart .remove,
+	.navigation li > a:hover,
+	.navigation li > a:hover .nav_subtitle,
+	.navigation li.current-menu-item > a, 
+	.navigation li.current-menu-item > a .nav_subtitle, 
+	.navigation li.current_page_item > a, 
+	.navigation li.current_page_item > a .nav_subtitle, 
+	.navigation li.current-menu-ancestor > a, 
+	.navigation li.current-menu-ancestor > a .nav_subtitle, 
+	.navigation .menu-item-mega-container > ul > li > a .nav_title,
+	.navigation li a .nav_tag {
+		color:#ffffff;
+	}
+	
+	@media only screen and (min-width: 1025px) {
+		ul.navigation li > ul li:hover > a, 
+		ul.navigation li > ul li:hover > a .nav_subtitle, 
+		ul.navigation li > ul li.current-menu-ancestor > a, 
+		ul.navigation li > ul li.current-menu-ancestor > a .nav_subtitle {
+			color:#ffffff;
+		}
+	}
+	
+	@media only screen and (max-width: 1024px) {
+		#header .navigation .menu-item-mega-container > ul > li.current-menu-ancestor > a .nav_title,
+		.navigation li.current-menu-ancestor > a {
+			color:#ffffff;
+		}
+	}
+	/* Finish Navigation Dropdown Link Hover Color */
+	
+	
+	/* Start Navigation Dropdown Link Subtitle Color */
+	.navigation li a .nav_subtitle {
+		color:#717275;
+	}
+	
+	.navigation li a .nav_tag {
+		background-color:#717275;
+	}
+	/* Finish Navigation Dropdown Link Subtitle Color */
+	
+	
+	/* Start Navigation Dropdown Link Hover Highlight Color */
+	.navigation li > a:hover,
+	.navigation li.current-menu-item > a {
+		background-color:rgba(255,255,255,0.07);
+	}
+	
+	@media only screen and (min-width: 1025px) {
+		ul.navigation li > ul li:hover > a, 
+		ul.navigation li > ul li.current-menu-ancestor > a {
+			background-color:rgba(255,255,255,0.07);
+		}
+	}
+	/* Finish Navigation Dropdown Link Hover Highlight Color */
+	
+	
+	/* Start Navigation Dropdown Link Border Color */
+	.navigation li {
+		border-color:rgba(255,255,255,0);
+	}
+	/* Finish Navigation Dropdown Link Border Color */
+
+/***************** Finish Navigation Color Scheme Rules ******************/
+
+
+
+/***************** Start Header Top Color Scheme Rules ******************/
+
+	/* Start Header Top Content Color */
+	.header_top {
+		color:#ffffff;
+	}
+	/* Finish Header Top Content Color */
+	
+	
+	/* Start Header Top Primary Color */
+	.header_top a, 
+	.header_top .cmsmasters_social_icon,
+	.header_top .header_top_but:hover, 
+	.header_top .header_top_but.opened {
+		color:#ffffff;
+	}
+	
+	.header_top .responsive_top_nav:before, 
+	.header_top .responsive_top_nav:after, 
+	.header_top .responsive_top_nav span {
+		background-color:#ffffff;
+	}
+	/* Finish Header Top Primary Color */
+	
+	
+	/* Start Header Top Rollover Color */
+	.header_top a:hover,
+	.header_top .cmsmasters_social_icon:hover,
+	.header_top .header_top_but {
+		color:rgba(255,255,255,0.5);
+	}
+	/* Finish Header Top Rollover Color */
+	
+	
+	/* Start Header Top Background Color */
+	.header_top {
+		background-color:rgba(49,51,59,0.15);
+	}
+	/* Finish Header Top Background Color */
+	
+	
+	/* Start Header Top Borders Color */
+	.header_top_outer,
+	.header_top .header_top_but {
+		border-color:rgba(255,255,255,0.2);
+	}
+	/* Finish Header Top Borders Color */
+	
+	
+	/* Start Header Top Custom Rules */
+	.header_top ::selection {
+		background:#ffffff;
+		color:rgba(49,51,59,0.15);
+	}
+	
+	.header_top ::-moz-selection {
+		background:#ffffff;
+		color:rgba(49,51,59,0.15);
+	}
+	/* Finish Header Top Custom Rules */
+
+/***************** Finish Header Top Color Scheme Rules ******************/
+
+
+
+/***************** Start Header Top Navigation Color Scheme Rules ******************/
+
+	/* Start Header Top Navigation Title Link Color */
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav > li > a {
+			color:#ffffff;
+		}
+	}
+	/* Finish Header Top Navigation Title Link Color */
+	
+	
+	/* Start Header Top Navigation Title Link Hover Color */
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav > li > a:hover,
+		ul.top_line_nav > li:hover > a,
+		ul.top_line_nav > li.current-menu-item > a,
+		ul.top_line_nav > li.current-menu-ancestor > a {
+			color:rgba(255,255,255,0.5);
+		}
+	}
+	/* Finish Header Top Navigation Title Link Hover Color */
+	
+	
+	/* Start Header Top Navigation Title Link Background Color */
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav > li > a {
+			background-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Header Top Navigation Title Link Background Color */
+	
+	
+	/* Start Header Top Navigation Title Link Hover Background Color */
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav > li > a:hover,
+		ul.top_line_nav > li:hover > a,
+		ul.top_line_nav > li.current-menu-item > a,
+		ul.top_line_nav > li.current-menu-ancestor > a {
+			background-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Header Top Navigation Title Link Hover Background Color */
+	
+	
+	/* Start Header Top Navigation Title Link Border Color */
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav > li {
+			border-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Header Top Navigation Title Link Border Color */
+	
+	
+	/* Start Header Top Navigation Dropdown Background Color */
+	@media only screen and (max-width: 1024px) {
+		ul.top_line_nav {
+			background-color:#31333b;
+		}
+	}
+	
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav ul {
+			background-color:#31333b;
+		}
+	}
+	/* Finish Header Top Navigation Dropdown Background Color */
+	
+	
+	/* Start Header Top Navigation Dropdown Border Color */
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav ul {
+			border-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Header Top Navigation Dropdown Border Color */
+	
+	
+	/* Start Header Top Navigation Dropdown Link Color */
+	.top_line_nav li a {
+		color:#8a8a8e;
+	}
+	/* Finish Header Top Navigation Dropdown Link Color */
+	
+	
+	/* Start Header Top Navigation Dropdown Link Hover Color */
+	.top_line_nav li > a:hover,
+	.top_line_nav li.current-menu-item > a {
+		color:#ffffff;
+	}
+	
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav ul li:hover > a, 
+		ul.top_line_nav ul li.current-menu-ancestor > a {
+			color:#ffffff;
+		}
+	}
+	/* Finish Header Top Navigation Dropdown Link Hover Color */
+	
+	
+	/* Start Header Top Navigation Dropdown Link Hover Highlight Color */
+	.top_line_nav li > a:hover,
+	.top_line_nav li.current-menu-item > a {
+		background-color:rgba(255,255,255,0);
+	}
+	
+	@media only screen and (min-width: 1025px) {
+		ul.top_line_nav ul li:hover > a,
+		ul.top_line_nav ul li.current-menu-ancestor > a {
+			background-color:rgba(255,255,255,0);
+		}
+	}
+	/* Finish Header Top Navigation Dropdown Link Hover Highlight Color */
+	
+	
+	/* Start Header Top Navigation Dropdown Link Border Color */
+	.top_line_nav li {
+		border-color:rgba(255,255,255,0);
+	}
+	/* Finish Header Top Navigation Dropdown Link Border Color */
+
+/***************** Finish Header Top Navigation Color Scheme Rules ******************/
+
+
+/***************** Start Gutenberg Module Custom Colors Scheme Rules ******************/
+
+	 div.wp-block ul > li:before {
+		background-color:#ffffff;
+	}
+	
+	 table thead th,
+	 table thead td {
+		color:#ffffff;
+		border-color:#d14f42;
+		background-color:#d14f42;
+	}
+	
+	 q, 
+	 .wp-block-table tfoot td, 
+	 .wp-block-table tfoot th, 
+	 .wp-block-freeform.mce-content-body > table tfoot th,
+	 .wp-block-freeform.mce-content-body > table tfoot td,
+	 .wp-block-quote,
+	.editor-styles-wrapper .wp-block-freeform blockquote,
+	.editor-styles-wrapper .wp-block-freeform blockquote p {
+		color:#31333b;
+	}
+	
+	 blockquote:before {
+		color:#a8a9ab;
+	}
+	
+	/* Start Table Colors */
+	 .wp-block-table th,
+	 .wp-block-table td,
+	 .wp-block-table.is-style-stripes th,
+	 .wp-block-table.is-style-stripes td,
+	.editor-styles-wrapper .wp-block-freeform .mce-item-table tbody tr th,
+	.editor-styles-wrapper .wp-block-freeform .mce-item-table tbody tr td,
+	.editor-styles-wrapper .wp-block-freeform table tbody tr th,
+	.editor-styles-wrapper .wp-block-freeform table tbody tr td {
+		border-color:#eaeaea;
+	}
+	
+	 .wp-block-table.is-style-stripes tr:nth-child(odd) th,
+	 .wp-block-table.is-style-stripes tr:nth-child(odd) td {
+		background-color:#fcfcfc;
+	}
+	
+	 .wp-block-table thead th,
+	 .wp-block-table thead td,
+	 .wp-block-freeform.mce-content-body > table thead th,
+	 .wp-block-freeform.mce-content-body > table thead td {
+		background-color:#d14f42;
+		border-color:#d14f42;
+		color:#ffffff;
+	}
+	/* Finish Table Colors */
+
+/***************** Finish Gutenberg Module Custom Colors Scheme Rules ******************/
+
+
+
+
+
+/***************** Start Gutenberg Module General Colors Scheme Rules ******************/
+	/* Start Main Content Font Color */
+	body .editor-styles-wrapper,
+	.editor-styles-wrapper .wp-block select,
+	.editor-styles-wrapper p.wp-block-subhead,
+	 .wp-block-image figcaption,
+	 .wp-block-audio figcaption,
+	 .wp-block-video figcaption,
+	 .wp-caption dd,
+	 .wp-block-latest-posts .wp-block-latest-posts__post-date,
+	 .wp-block-latest-comments .wp-block-latest-comments__comment-date,
+	 .wp-block-search .wp-block-search__input {
+		color:#8b8b8b;
+	}
+	/* Finish Main Content Font Color */
+	
+	
+	/* Start Primary Color */
+	.editor-styles-wrapper a,
+	.editor-styles-wrapper .wp-block-freeform.block-library-rich-text__tinymce a,
+	.editor-styles-wrapper .wp-block-file .wp-block-file__textlink {
+		color:#d14f42;
+	}
+
+	 .wp-block-search .wp-block-search__input:focus {
+		border-color:#d14f42;
+	}
+	/* Finish Primary Color */
+	
+	
+	/* Start Highlight Color */
+	.editor-styles-wrapper a:hover,
+	.editor-styles-wrapper a:active,
+	body .editor-styles-wrapper h1 a:hover,
+	body .editor-styles-wrapper h1 a:active,
+	body .editor-styles-wrapper h2 a:hover,
+	body .editor-styles-wrapper h2 a:active,
+	body .editor-styles-wrapper h3 a:hover,
+	body .editor-styles-wrapper h3 a:active,
+	body .editor-styles-wrapper h4 a:hover,
+	body .editor-styles-wrapper h4 a:active,
+	body .editor-styles-wrapper h5 a:hover,
+	body .editor-styles-wrapper h5 a:active,
+	body .editor-styles-wrapper h6 a:hover,
+	body .editor-styles-wrapper h6 a:active,
+	.editor-styles-wrapper div.wp-block .wp-block-freeform.block-library-rich-text__tinymce a:hover,
+	.editor-styles-wrapper div.wp-block .wp-block-freeform.block-library-rich-text__tinymce a:active {
+		color:#a8a9ab;
+	}
+	
+	.editor-styles-wrapper .wp-block select:focus {
+		border-color:#a8a9ab;
+	}
+	/* Finish Highlight Color */
+	
+	
+	/* Start Headings Color */
+	.editor-post-title__block .editor-post-title__input,
+	body .editor-styles-wrapper h1,
+	body .editor-styles-wrapper h1 a,
+	body .editor-styles-wrapper h2,
+	body .editor-styles-wrapper h2 a,
+	body .editor-styles-wrapper h3,
+	body .editor-styles-wrapper h3 a,
+	body .editor-styles-wrapper h4,
+	body .editor-styles-wrapper h4 a,
+	body .editor-styles-wrapper h5,
+	body .editor-styles-wrapper h5 a,
+	body .editor-styles-wrapper h6,
+	body .editor-styles-wrapper h6 a,
+	.editor-styles-wrapper .wp-block-quote,
+	.editor-styles-wrapper .wp-block-freeform blockquote,
+	.editor-styles-wrapper .wp-block-freeform blockquote p,
+	 .wp-block-pullquote {
+		color:#31333b;
+	}
+	
+	 .wp-block-pullquote.is-style-solid-color {
+		background-color:#31333b;
+	}
+	
+	 .wp-block-pullquote {
+		border-color:#31333b;
+	}
+	/* Finish Headings Color */
+	
+	
+	/* Start Main Background Color */
+	body  .wp-block-cover .wp-block-cover-text,
+	.editor-styles-wrapper .wp-block-cover a,
+	 .wp-block-cover .wp-block-cover__inner-container,
+	 .wp-block-pullquote.is-style-solid-color {
+		color:#ffffff;
+	}
+	
+	body .editor-styles-wrapper,
+	 .wp-block-search .wp-block-search__input {
+		background-color:#ffffff;
+	}
+	/* Finish Main Background Color */
+
+	/* Start Alternate Background Color */
+	.editor-styles-wrapper .wp-block select {
+		background-color:#fcfcfc;
+	}
+	/* Finish Alternate Background Color */
+
+	/* Start Borders Color */
+	 .wp-block-separator.is-style-dots:before {
+		color:#eaeaea;
+	}
+	
+	 .wp-block-separator:not(.is-style-dots):before {
+		background-color:#eaeaea;
+	}
+	
+	.editor-styles-wrapper .wp-block select,
+	.editor-styles-wrapper .wp-block-freeform hr,
+	 .wp-block-search .wp-block-search__input {
+		border-color:#eaeaea;
+	}
+	/* Finish Borders Color */
+	
+	
+	/* Start Buttons Colors */
+	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background),
+	 .wp-block-file .wp-block-file__button,
+	 .wp-block-file a.wp-block-file__button {
+		color:#ffffff;
+		background-color:#d14f42;
+	}
+	
+	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
+	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background):focus,
+	 .wp-block-button .wp-block-button__link:not(.has-text-color):not(.has-background):active,
+	 .wp-block-file .wp-block-file__button:hover,
+	 .wp-block-file .wp-block-file__button:focus,
+	 .wp-block-file .wp-block-file__button:active,
+	 .wp-block-file a.wp-block-file__button:hover,
+	 .wp-block-file a.wp-block-file__button:focus,
+	 .wp-block-file a.wp-block-file__button:active {
+		color:#ffffff;
+		background-color:#a8a9ab;
+	}
+	
+	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background) {
+		color:#d14f42;
+		background-color:#ffffff;
+		border-color:#d14f42;
+	}
+	
+	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):hover,
+	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):focus,
+	 .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color):not(.has-background):active {
+		color:#ffffff;
+		background-color:#d14f42;
+		border-color:#d14f42;
+	}
+	/* Finish Buttons Colors */
+	
+
+/***************** Finish Gutenberg Module General Colors Scheme Rules ******************/
+
+
+			.has-color-1-color {
+				color: #000000;
+			}
+
+			.has-color-1-background-color {
+				background-color: #000000;
+			}
+			
+			.has-color-2-color {
+				color: #ffffff;
+			}
+
+			.has-color-2-background-color {
+				background-color: #ffffff;
+			}
+			
+			.has-color-3-color {
+				color: #d43c18;
+			}
+
+			.has-color-3-background-color {
+				background-color: #d43c18;
+			}
+			
+			.has-color-4-color {
+				color: #5173a6;
+			}
+
+			.has-color-4-background-color {
+				background-color: #5173a6;
+			}
+			
+			.has-color-5-color {
+				color: #959595;
+			}
+
+			.has-color-5-background-color {
+				background-color: #959595;
+			}
+			
+			.has-color-6-color {
+				color: #c0c0c0;
+			}
+
+			.has-color-6-background-color {
+				background-color: #c0c0c0;
+			}
+			
+			.has-color-7-color {
+				color: #f4f4f4;
+			}
+
+			.has-color-7-background-color {
+				background-color: #f4f4f4;
+			}
+			
+			.has-color-8-color {
+				color: #e1e1e1;
+			}
+
+			.has-color-8-background-color {
+				background-color: #e1e1e1;
+			}
+			

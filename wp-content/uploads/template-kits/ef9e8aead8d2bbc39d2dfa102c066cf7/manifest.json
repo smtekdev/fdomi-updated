@@ -1,0 +1,276 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Nightclub",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home Nightclub 1",
+            "screenshot": "screenshots\/home-nightclub-1.jpg",
+            "source": "templates\/home-nightclub-1-1cbe4aa91a1f22c0bcace94116a253d8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Nightclub 2",
+            "screenshot": "screenshots\/home-nightclub-2.jpg",
+            "source": "templates\/home-nightclub-2-0cc7cb3897571da317ab68d5bbcc693e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Nightclub 3",
+            "screenshot": "screenshots\/home-nightclub-3.jpg",
+            "source": "templates\/home-nightclub-3-c3720e1872ef6418774dbae81ccbd4ed.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Nightclub 4",
+            "screenshot": "screenshots\/home-nightclub-4.jpg",
+            "source": "templates\/home-nightclub-4-0a41a1cbba92d95f41d59df11642f067.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Nightclub 5",
+            "screenshot": "screenshots\/home-nightclub-5-pro.jpg",
+            "source": "templates\/home-nightclub-5-8ee779282003ad31c8bd80444d5b635f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Nightclub 6",
+            "screenshot": "screenshots\/home-nightclub-6-pro.jpg",
+            "source": "templates\/home-nightclub-6-0254f88d391f43807304a7f59c461853.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Nightclub 7",
+            "screenshot": "screenshots\/home-nightclub-7-pro.jpg",
+            "source": "templates\/home-nightclub-7-b1993c612d9ea7ddfa1c97272d7fb98b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home Nightclub 8",
+            "screenshot": "screenshots\/home-nightclub-8-pro.jpg",
+            "source": "templates\/home-nightclub-8-703bb37b4288b96323594495e05e88b2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Club Event 1",
+            "screenshot": "screenshots\/club-event-1-pro.jpg",
+            "source": "templates\/club-event-1-081962577a4c571eb00598eb13e25680.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Club Event 2",
+            "screenshot": "screenshots\/club-event-2-pro.jpg",
+            "source": "templates\/club-event-2-1db3eb725dcb8dca171bddbecb2209d5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "DJ Listing 1",
+            "screenshot": "screenshots\/dj-listing-1.jpg",
+            "source": "templates\/dj-listing-1-77d3da0ffa266875b8f8fe75a3c4a4f5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "DJ Listing 2",
+            "screenshot": "screenshots\/dj-listing-2-pro.jpg",
+            "source": "templates\/dj-listing-2-a0abd84a405551a34676d43ec2fb279d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-09f835fb17db91806ab844402fce2071.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2-pro.jpg",
+            "source": "templates\/about-2-53dff292c1621baf7c534feec894d598.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-a45cd5fb676523c371398f197081fb78.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2-pro.jpg",
+            "source": "templates\/services-2-a229710e97b3bb9d5dd93789bf93ab85.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Menu 1",
+            "screenshot": "screenshots\/menu-1.jpg",
+            "source": "templates\/menu-1-cc1460fb9ab6c6b76bb2407e54b7ae1a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu 2",
+            "screenshot": "screenshots\/menu-2.jpg",
+            "source": "templates\/menu-2-a12ad62bd7f11c1af80eee9166229eb1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reservation",
+            "screenshot": "screenshots\/reservation-pro.jpg",
+            "source": "templates\/reservation-531f6633378ad086422a33ffdb4e43de.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-2be96e09ab48d16505240da4a1c9302a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-e2a97b1678467ce7361910ed6de7f893.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": []
+}

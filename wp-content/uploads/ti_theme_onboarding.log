@@ -1,0 +1,24 @@
+[27/Apr/2022:16:43:38] (I): WordPress Instance Info:
+[27/Apr/2022:16:43:38] (I): Home URL : http://localhost/wordpress21
+[27/Apr/2022:16:43:38] (I): Site URL : http://localhost/wordpress21
+[27/Apr/2022:16:43:38] (I): WordPress Version : 5.9.3
+[27/Apr/2022:16:43:38] (I): Onboarding Version : 1.1.21
+[27/Apr/2022:16:43:38] (I): Multisite : No
+[27/Apr/2022:16:43:38] (I): Server Info : Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/8.0.12
+[27/Apr/2022:16:43:38] (I): PHP Version : 8.0.12
+[27/Apr/2022:16:43:38] (I): HTTPS : No
+[27/Apr/2022:16:43:38] (I): PHP Max Execution Time : 120
+[27/Apr/2022:16:43:38] (I): PHP Max Input Vars : 1000
+[27/Apr/2022:16:43:38] (I): Max Upload Size : 41943040
+[27/Apr/2022:16:43:38] (I): Plugins:
+[27/Apr/2022:16:43:38] (I): [PLUGIN] All-in-One WP Migration Unlimited Extension : v2.32 (ServMask)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] All-in-One WP Migration : v7.57 (ServMask)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Elementor Pro : v3.6.5 (Elementor.com)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Elementor : v3.6.4 (Elementor.com)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Envato Elements : v2.0.11 (Envato)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Essential Addons for Elementor : v5.1.1 (WPDeveloper)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Premium Addons for Elementor : v4.9.9 (Leap13)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Sina Extension for Elementor : v3.4.1 (SinaExtra)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Templately : v1.3.3 (Templately)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] Templates Patterns Collection : v1.1.21 (ThemeIsle)
+[27/Apr/2022:16:43:38] (I): [PLUGIN] WP Reset : v1.95 (WebFactory Ltd)
